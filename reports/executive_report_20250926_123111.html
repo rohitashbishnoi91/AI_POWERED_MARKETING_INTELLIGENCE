@@ -1,0 +1,337 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI-Powered Market Intelligence Report</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #34495e;
+            margin-top: 30px;
+            border-left: 4px solid #3498db;
+            padding-left: 15px;
+        }
+        h3 {
+            color: #5d6d7e;
+        }
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin: 20px 0;
+        }
+        .metric-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        .metric-value {
+            font-size: 2em;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .metric-label {
+            font-size: 0.9em;
+            opacity: 0.9;
+        }
+        .insight-card {
+            background-color: #ecf0f1;
+            border-left: 4px solid #e74c3c;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 5px;
+        }
+        .opportunity {
+            border-left-color: #27ae60;
+        }
+        .threat {
+            border-left-color: #e74c3c;
+        }
+        .chart-container {
+            margin: 20px 0;
+            padding: 15px;
+            background-color: #fafafa;
+            border-radius: 8px;
+        }
+        .footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #bdc3c7;
+            text-align: center;
+            color: #7f8c8d;
+            font-size: 0.9em;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+        }
+        th, td {
+            text-align: left;
+            padding: 12px;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #f8f9fa;
+            font-weight: 600;
+        }
+        .confidence-indicator {
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 0.8em;
+            font-weight: bold;
+        }
+        .confidence-high { background-color: #d4edda; color: #155724; }
+        .confidence-medium { background-color: #fff3cd; color: #856404; }
+        .confidence-low { background-color: #f8d7da; color: #721c24; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>AI-Powered Market Intelligence Report</h1>
+        <p><strong>Generated:</strong> September 26, 2025 at 12:31 PM | <strong>Company:</strong> Next-Gen AI Marketing Company</p>
+        
+        <div class="metrics-grid">
+            <div class="metric-card">
+                <div class="metric-value">1,000</div>
+                <div class="metric-label">Total Apps Analyzed</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-value">3.06</div>
+                <div class="metric-label">Average Rating</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-value">10</div>
+                <div class="metric-label">Categories</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-value">High</div>
+                <div class="metric-label">Confidence Level</div>
+            </div>
+        </div>
+        
+        <h2>📊 Executive Summary</h2>
+        <div class="insight-card">
+            <h3>Key Market Findings</h3>
+            <ul>
+                <li>Finance, Social, Entertainment, Game, and Health & Fitness are highly saturated categories, suggesting high competition but also strong user demand. Niche subcategories within these areas might offer better opportunities.</li>\n<li>The relatively low average rating (3.06) indicates significant room for improvement in app quality and user experience across the market. This represents an opportunity for apps with superior design and functionality to stand out.</li>\n<li>The near 50/50 split between free and paid apps suggests a need for careful monetization strategies. Freemium models, in-app purchases, and advertising should be considered based on the target audience and app category.</li>
+            </ul>
+        </div>
+        
+        <h2>📈 Market Overview</h2>
+        <div id="ratingChart" class="chart-container"></div>
+        
+        <h2>📂 Category Analysis</h2>
+        
+        <table>
+            <tr>
+                <th>Category</th>
+                <th>App Count</th>
+                <th>Avg Rating</th>
+                <th>Avg Reviews</th>
+            </tr>
+        
+            <tr>
+                <td>FINANCE</td>
+                <td>122</td>
+                <td>3.15</td>
+                <td>50,568</td>
+            </tr>
+            
+            <tr>
+                <td>SOCIAL</td>
+                <td>104</td>
+                <td>3.02</td>
+                <td>51,425</td>
+            </tr>
+            
+            <tr>
+                <td>ENTERTAINMENT</td>
+                <td>102</td>
+                <td>2.93</td>
+                <td>49,035</td>
+            </tr>
+            
+            <tr>
+                <td>GAME</td>
+                <td>101</td>
+                <td>3.16</td>
+                <td>47,765</td>
+            </tr>
+            
+            <tr>
+                <td>HEALTH_AND_FITNESS</td>
+                <td>101</td>
+                <td>2.98</td>
+                <td>48,236</td>
+            </tr>
+            
+            <tr>
+                <td>COMMUNICATION</td>
+                <td>99</td>
+                <td>3.04</td>
+                <td>49,300</td>
+            </tr>
+            
+            <tr>
+                <td>SHOPPING</td>
+                <td>99</td>
+                <td>3.09</td>
+                <td>44,233</td>
+            </tr>
+            
+            <tr>
+                <td>PRODUCTIVITY</td>
+                <td>97</td>
+                <td>2.92</td>
+                <td>51,846</td>
+            </tr>
+            
+            <tr>
+                <td>EDUCATION</td>
+                <td>90</td>
+                <td>3.15</td>
+                <td>55,278</td>
+            </tr>
+            
+            <tr>
+                <td>TRAVEL</td>
+                <td>85</td>
+                <td>3.16</td>
+                <td>50,785</td>
+            </tr>
+            </table>
+        <div id="categoryChart" class="chart-container"></div>
+        
+        <h2>🥊 Competitive Intelligence</h2>
+        <div class="insight-card">
+            <h3>Market Leaders</h3>
+            <ul>
+                <li>Sample App 119 (FINANCE) - High Rating, Significant Reviews</li>\n<li>Sample App 176 (GAME) - High Rating, Top Review Count in its Category</li>\n<li>Sample App 646 (TRAVEL) - High Rating, High Review Count</li>
+            </ul>
+        </div>
+        
+        <div class="insight-card">
+            <h3>Success Factors</h3>
+            <ul>
+                <li>Achieving high ratings (5.0) is clearly possible, suggesting strong product-market fit for some apps.</li>\n<li>Accumulating a large number of reviews indicates high user engagement and visibility.</li>\n<li>Category specialization: Success seems to be focused within specific categories (Finance, Game, Travel) rather than broad success across all categories.</li>
+            </ul>
+        </div>
+        
+        <h2>🎯 Opportunities & Threats</h2>
+        <div class="insight-card opportunity">
+            <h3>Market Opportunities</h3>
+            <ul>
+                <li><strong>Target underserved categories with fewer apps to reduce competition and increase visibility.</strong> <em>(Impact: high)</em></li>\n<li><strong>Develop high-quality paid apps to capitalize on the significant portion of the market willing to pay for premium experiences and features. Differentiate from the 50.3% of free apps.</strong> <em>(Impact: medium)</em></li>\n<li><strong>Improve app quality and user experience to surpass the average competition rating of 3.06. Focus on bug fixes, intuitive UI/UX, and valuable content.</strong> <em>(Impact: medium)</em></li>\n<li><strong>Explore niche sub-categories within the 10 broad categories to cater to specific user needs and reduce direct competition.</strong> <em>(Impact: low)</em></li>
+            </ul>
+        </div>
+        
+        <div class="insight-card threat">
+            <h3>Market Threats</h3>
+            <ul>
+                <li><strong>Intense competition within popular categories could make it difficult for new apps to gain traction and visibility.</strong> <em>(Risk: high)</em></li>\n<li><strong>The prevalence of free apps may make it challenging to monetize paid apps or in-app purchases, requiring innovative monetization strategies.</strong> <em>(Risk: medium)</em></li>\n<li><strong>Low app quality and poor user experience could lead to negative reviews and low adoption rates.</strong> <em>(Risk: medium)</em></li>\n<li><strong>Market fragmentation requires a deep understanding of each category and its user base, increasing the complexity of marketing and development efforts.</strong> <em>(Risk: low)</em></li>
+            </ul>
+        </div>
+        
+        <h2>💡 Strategic Recommendations</h2>
+        <div class='insight-card'><h3>Product Strategy</h3><ul><li><strong>Focus on achieving a rating significantly above the 3.06 average. Implement user feedback mechanisms and prioritize bug fixes and performance improvements.</strong> <em>(Priority: high, Timeline: short-term)</em></li><li><strong>If developing a new app, consider a freemium model given its high adoption rate. Carefully design the free and paid tiers to offer value and incentivize upgrades.</strong> <em>(Priority: high, Timeline: short-term)</em></li><li><strong>Conduct user research within the target category to identify unmet needs and opportunities for differentiation. Focus on unique features or improved user experience.</strong> <em>(Priority: medium, Timeline: medium-term)</em></li><li><strong>Continuously monitor user reviews and market trends to adapt the product roadmap and ensure ongoing relevance and competitiveness.</strong> <em>(Priority: medium, Timeline: long-term)</em></li></ul></div><div class='insight-card'><h3>Marketing Strategy</h3><ul><li><strong>Highlight the superior rating (if achieved) in app store descriptions and marketing materials to build trust and attract users.</strong> <em>(Priority: high, Timeline: short-term)</em></li><li><strong>Develop a content marketing strategy focused on the specific needs and interests of users in the target category (e.g., finance tips for 'FINANCE' apps).</strong> <em>(Priority: medium, Timeline: medium-term)</em></li><li><strong>Leverage social media and influencer marketing to reach target audiences and build brand awareness.</strong> <em>(Priority: medium, Timeline: medium-term)</em></li><li><strong>Implement A/B testing of app store listing elements (title, description, screenshots) to optimize for discoverability and conversion.</strong> <em>(Priority: medium, Timeline: short-term)</em></li></ul></div><div class='insight-card'><h3>Competitive Strategy</h3><ul><li><strong>Analyze the top-rated apps in the target category to identify best practices and potential weaknesses to exploit.</strong> <em>(Priority: high, Timeline: short-term)</em></li><li><strong>Focus on a niche within the broader category to differentiate the app and avoid direct competition with established players.</strong> <em>(Priority: medium, Timeline: medium-term)</em></li><li><strong>Monitor competitor marketing activities and product updates to identify emerging trends and adapt accordingly.</strong> <em>(Priority: medium, Timeline: long-term)</em></li><li><strong>Consider partnerships with complementary businesses to expand reach and offer bundled services.</strong> <em>(Priority: low, Timeline: long-term)</em></li></ul></div>
+        
+        <h2>📋 Data Quality & Confidence</h2>
+        <table>
+            <tr>
+                <th>Metric</th>
+                <th>Score</th>
+                <th>Level</th>
+            </tr>
+            <tr>
+                <td>Overall Confidence</td>
+                <td>0.90/1.0</td>
+                <td><span class="confidence-indicator confidence-high">High</span></td>
+            </tr>
+            <tr>
+                <td>Data Completeness</td>
+                <td>100.0%</td>
+                <td><span class="confidence-indicator confidence-high">Good</span></td>
+            </tr>
+            <tr>
+                <td>Sample Size</td>
+                <td>1,000 apps</td>
+                <td><span class="confidence-indicator confidence-high">Excellent</span></td>
+            </tr>
+        </table>
+        
+        <div class="footer">
+            <p><em>Report generated automatically by AI-Powered Market Intelligence System</em></p>
+            <p>© Next-Gen AI Marketing Company - September 26, 2025 at 12:31 PM</p>
+        </div>
+    </div>
+    
+    <script>
+        
+                var categoryData = {
+                    x: [122, 104, 102, 101, 101, 99, 99, 97, 90, 85],
+                    y: ['FINANCE', 'SOCIAL', 'ENTERTAINMENT', 'GAME', 'HEALTH_AND_FITNESS', 'SHOPPING', 'COMMUNICATION', 'PRODUCTIVITY', 'EDUCATION', 'TRAVEL'],
+                    type: 'bar',
+                    orientation: 'h',
+                    marker: {color: '#3498db'}
+                };
+                
+                var categoryLayout = {
+                    title: 'Top 10 Categories by App Count',
+                    xaxis: {title: 'Number of Apps'},
+                    yaxis: {title: 'Category'},
+                    height: 400
+                };
+                
+                Plotly.newPlot('categoryChart', [categoryData], categoryLayout);
+                
+                var ratingData = {
+                    x: [2.0, 2.4, 3.0, 2.0, 4.2, 1.5, 3.9, 2.6, 4.8, 4.5, 3.9, 1.4, 2.3, 2.7, 4.6, 1.7, 4.4, 1.6, 4.1, 4.1, 4.5, 1.7, 3.0, 1.5, 4.3, 2.2, 4.0, 3.2, 3.7, 4.0, 4.3, 3.9, 1.2, 1.2, 2.3, 2.9, 3.7, 1.8, 1.2, 2.3, 1.8, 2.3, 3.7, 4.3, 2.6, 3.9, 4.0, 1.7, 4.5, 4.9, 3.1, 2.9, 2.4, 2.7, 4.6, 2.4, 2.4, 4.3, 2.4, 1.1, 1.1, 4.2, 4.4, 4.0, 1.1, 3.9, 1.6, 2.7, 2.0, 2.0, 1.7, 4.3, 2.9, 4.4, 3.0, 3.7, 3.3, 2.9, 2.2, 1.4, 4.5, 2.8, 2.3, 2.4, 4.4, 2.7, 2.5, 3.1, 4.6, 4.8, 1.9, 3.9, 1.5, 2.0, 1.9, 3.6, 1.1, 1.4, 4.1, 1.4, 2.7, 1.8, 4.0, 4.3, 1.1, 3.3, 1.1, 3.0, 1.5, 1.6, 2.2, 1.6, 2.4, 1.7, 2.3, 2.7, 3.3, 3.5, 5.0, 1.1, 2.5, 4.3, 1.5, 4.3, 2.9, 4.8, 3.3, 3.8, 1.1, 2.6, 2.0, 4.6, 3.4, 4.6, 4.0, 3.5, 4.6, 1.8, 3.5, 2.8, 1.1, 1.8, 2.1, 4.4, 4.4, 2.2, 4.6, 2.5, 2.7, 3.0, 3.5, 1.3, 4.3, 2.6, 3.6, 4.6, 3.9, 3.8, 2.5, 4.4, 1.6, 2.8, 4.2, 3.7, 2.4, 4.3, 3.0, 4.7, 1.9, 1.6, 2.5, 2.1, 4.4, 4.3, 1.5, 5.0, 4.5, 1.9, 4.5, 3.7, 3.4, 4.2, 1.2, 2.2, 4.2, 3.4, 5.0, 3.0, 4.6, 3.8, 3.7, 1.1, 2.5, 2.0, 2.5, 3.3, 2.6, 2.0, 3.0, 2.8, 4.6, 1.3, 4.9, 2.1, 1.3, 3.6, 1.8, 3.0, 3.3, 2.8, 3.5, 4.3, 3.2, 3.0, 4.4, 3.1, 4.2, 4.9, 1.1, 3.8, 4.9, 4.7, 1.8, 1.2, 4.8, 4.0, 4.9, 4.3, 3.6, 4.5, 3.1, 2.4, 3.8, 4.0, 1.4, 1.5, 3.1, 2.7, 2.6, 1.0, 3.5, 4.3, 4.4, 2.5, 2.1, 1.0, 3.0, 3.2, 2.9, 1.4, 3.0, 1.7, 4.7, 4.1, 4.5, 3.5, 4.4, 4.3, 2.8, 3.6, 3.5, 1.7, 1.7, 4.5, 1.1, 3.1, 2.2, 3.2, 1.9, 1.7, 4.5, 4.3, 2.8, 2.6, 3.6, 2.9, 4.0, 2.1, 3.4, 1.4, 4.0, 2.5, 4.4, 2.7, 5.0, 3.9, 1.8, 4.1, 2.6, 1.4, 1.1, 4.7, 1.8, 3.9, 1.6, 3.2, 3.9, 3.2, 2.7, 3.5, 2.6, 3.4, 1.8, 2.9, 2.9, 2.7, 2.4, 1.6, 3.0, 4.3, 2.5, 2.1, 3.6, 1.3, 4.0, 2.4, 3.3, 4.0, 3.9, 1.3, 3.4, 4.8, 1.5, 4.2, 1.0, 3.2, 2.2, 1.9, 3.4, 1.6, 3.8, 4.2, 4.9, 3.2, 2.2, 1.8, 4.5, 1.3, 2.0, 4.5, 1.3, 3.6, 4.7, 4.6, 3.6, 2.6, 1.6, 1.5, 2.3, 1.1, 5.0, 4.3, 3.9, 1.9, 4.8, 1.9, 3.6, 4.5, 2.2, 1.2, 2.3, 4.5, 1.9, 1.5, 4.2, 3.5, 3.3, 2.1, 1.9, 3.3, 2.4, 1.9, 1.2, 3.4, 3.2, 4.6, 1.4, 3.1, 1.9, 4.5, 4.7, 4.3, 2.6, 3.0, 1.0, 1.2, 2.4, 4.2, 1.5, 4.6, 2.5, 4.2, 4.8, 3.7, 2.6, 2.9, 2.4, 1.6, 4.6, 2.1, 4.1, 4.2, 3.8, 3.8, 3.7, 4.7, 1.2, 4.3, 1.6, 2.9, 2.7, 3.1, 3.7, 2.4, 1.4, 1.8, 1.0, 2.0, 2.4, 1.1, 1.7, 4.6, 3.7, 3.0, 4.1, 5.0, 3.8, 1.9, 1.2, 3.9, 1.7, 4.6, 1.6, 4.9, 4.8, 3.0, 2.3, 2.6, 4.7, 3.8, 4.8, 3.6, 4.9, 2.4, 1.6, 2.7, 3.8, 3.8, 5.0, 1.8, 3.0, 4.8, 3.0, 1.5, 3.3, 4.9, 4.5, 2.8, 3.8, 1.3, 3.4, 3.2, 3.3, 4.1, 4.8, 3.8, 4.3, 2.8, 4.1, 2.0, 4.8, 3.7, 1.7, 4.9, 2.5, 2.0, 2.3, 1.8, 1.5, 2.0, 2.2, 1.9, 3.9, 2.9, 4.7, 3.6, 4.3, 2.6, 3.2, 4.5, 2.1, 4.7, 1.4, 4.0, 2.8, 2.8, 1.1, 3.9, 2.3, 3.3, 3.2, 4.3, 4.5, 2.6, 2.1, 3.9, 4.4, 1.2, 3.0, 3.1, 4.2, 2.9, 2.1, 3.6, 1.6, 3.5, 1.7, 1.4, 3.7, 3.1, 4.9, 4.3, 1.1, 4.6, 2.3, 2.2, 2.7, 2.8, 3.6, 3.9, 2.3, 2.9, 1.4, 2.2, 2.3, 2.3, 2.5, 3.4, 2.1, 4.7, 4.3, 3.3, 5.0, 4.9, 3.2, 1.0, 2.8, 2.0, 3.8, 2.7, 2.7, 4.8, 3.3, 4.8, 3.0, 4.1, 3.5, 2.3, 1.6, 3.7, 3.9, 4.6, 2.3, 4.9, 3.5, 4.2, 1.6, 1.5, 2.9, 3.0, 2.9, 1.7, 2.2, 4.8, 1.5, 4.7, 2.7, 1.4, 4.3, 2.5, 4.2, 1.3, 4.7, 1.5, 4.1, 3.6, 1.0, 4.5, 4.7, 2.4, 4.5, 1.7, 3.0, 2.3, 3.5, 4.1, 3.2, 4.3, 2.8, 4.9, 1.6, 4.3, 2.6, 4.1, 2.6, 1.1, 1.9, 1.6, 1.3, 4.2, 3.5, 4.0, 1.5, 1.6, 4.2, 3.1, 4.4, 2.7, 4.4, 4.1, 1.8, 3.5, 4.4, 1.4, 2.6, 1.4, 3.3, 5.0, 2.5, 4.7, 4.1, 2.7, 4.9, 1.5, 1.9, 3.0, 3.7, 1.4, 3.9, 3.4, 3.6, 4.7, 3.1, 3.0, 3.8, 5.0, 2.9, 1.6, 4.0, 1.9, 4.0, 3.3, 4.3, 3.6, 5.0, 3.5, 4.1, 3.0, 4.1, 1.1, 1.8, 4.1, 2.9, 1.3, 4.0, 4.9, 4.8, 2.4, 1.7, 3.1, 4.9, 4.8, 2.9, 3.5, 2.2, 3.6, 1.8, 4.7, 1.6, 1.5, 3.2, 2.0, 1.9, 4.0, 3.4, 1.7, 2.1, 4.4, 3.9, 3.2, 1.2, 4.9, 3.0, 4.1, 2.4, 3.3, 4.1, 4.5, 3.1, 1.0, 1.7, 4.9, 4.3, 3.8, 1.7, 3.1, 1.9, 3.0, 4.6, 1.8, 1.2, 2.1, 2.8, 3.4, 3.4, 3.4, 2.2, 2.5, 1.1, 3.4, 3.7, 2.6, 4.6, 2.9, 4.1, 3.5, 3.3, 3.2, 3.5, 3.3, 1.5, 3.7, 3.6, 1.2, 3.7, 1.9, 3.5, 3.9, 3.2, 4.0, 3.1, 1.9, 4.8, 4.1, 4.8, 1.8, 2.4, 3.1, 3.8, 4.1, 1.4, 1.3, 1.7, 2.7, 1.2, 2.6, 2.4, 2.5, 2.6, 1.1, 4.7, 1.6, 1.1, 3.5, 4.9, 4.2, 3.6, 2.5, 3.4, 3.7, 2.9, 4.1, 3.9, 1.9, 1.2, 1.0, 3.3, 3.8, 4.3, 4.1, 4.3, 1.3, 2.6, 4.9, 2.0, 1.3, 4.6, 2.7, 2.0, 3.4, 1.8, 1.6, 3.9, 4.8, 4.9, 3.4, 1.2, 4.6, 3.7, 4.0, 5.0, 1.9, 4.1, 1.0, 1.2, 4.3, 3.1, 5.0, 4.7, 4.9, 4.8, 4.9, 1.2, 4.8, 1.5, 1.6, 3.0, 2.6, 1.9, 4.7, 1.0, 2.3, 3.9, 2.6, 2.7, 1.5, 4.6, 4.3, 1.1, 4.7, 1.0, 1.9, 1.3, 2.3, 4.3, 2.6, 1.0, 3.7, 2.7, 4.1, 3.9, 4.6, 1.9, 4.7, 2.8, 4.9, 3.7, 2.2, 3.0, 1.7, 3.4, 1.4, 4.3, 3.6, 2.0, 4.4, 2.9, 1.0, 2.8, 4.4, 2.2, 1.1, 3.3, 3.7, 3.8, 4.9, 1.9, 3.4, 2.5, 2.8, 2.3, 3.9, 4.3, 1.5, 2.1, 3.9, 3.4, 2.9, 5.0, 1.1, 5.0, 3.6, 4.4, 3.6, 2.9, 4.7, 3.7, 2.9, 2.8, 4.3, 4.0, 4.5, 1.7, 4.9, 2.1, 1.5, 3.4, 3.5, 1.8, 4.2, 4.7, 2.7, 1.5, 3.3, 1.8, 4.7, 4.5, 3.7, 1.5, 3.0, 4.3, 3.6, 1.7, 3.8, 1.1, 4.6, 3.2, 3.1, 4.2, 1.2, 2.8, 1.2, 4.8, 2.6, 3.5, 2.3, 1.8, 2.3, 2.4, 3.3, 2.4, 2.4, 3.7, 3.9, 1.1, 1.5, 3.0, 1.8, 4.2, 1.2, 1.6, 1.3, 2.1, 3.2, 1.1, 2.5, 3.3, 3.2, 3.5, 3.4, 4.1, 3.6, 3.1, 2.9, 3.6, 3.7, 1.9, 4.4, 1.0, 3.2, 3.3, 4.3, 3.0, 1.3, 3.3, 3.9, 3.1, 1.9, 4.3, 3.2, 4.9, 2.6, 3.5, 3.4, 2.0, 2.4, 4.0, 4.1, 3.9, 2.0, 1.2, 2.6, 2.8, 4.8, 2.5, 2.1, 3.3, 3.5, 4.8, 1.5, 1.1, 1.8, 4.5, 2.4, 4.3, 3.4, 4.7, 4.9, 4.1, 4.9],
+                    type: 'histogram',
+                    nbinsx: 20,
+                    marker: {color: '#e74c3c'}
+                };
+                
+                var ratingLayout = {
+                    title: 'App Rating Distribution',
+                    xaxis: {title: 'Rating'},
+                    yaxis: {title: 'Number of Apps'},
+                    height: 300
+                };
+                
+                Plotly.newPlot('ratingChart', [ratingData], ratingLayout);
+                
+    </script>
+</body>
+</html>

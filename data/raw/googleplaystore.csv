@@ -1,0 +1,1001 @@
+app,category,rating,reviews,size,installs,type,price,content_rating,genres,last_updated,current_ver,android_ver
+Sample App 1,SOCIAL,2.0,71638,95M,"10,000+",Paid,0,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 2,GAME,2.4,32989,62M,"1,000+",Free,$4.99,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 3,SOCIAL,3.0,15894,60M,100+,Free,0,Teen,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 4,ENTERTAINMENT,2.0,58319,55M,"1,000,000+",Free,0,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 5,SHOPPING,4.2,92981,36M,"1,000+",Paid,0,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 6,PRODUCTIVITY,1.5,92243,58M,"10,000+",Free,0,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 7,SHOPPING,3.9,19376,53M,"1,000+",Paid,0,Everyone,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 8,TRAVEL,2.6,67099,40M,"1,000+",Free,0,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 9,HEALTH_AND_FITNESS,4.8,44105,72M,100+,Paid,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 10,PRODUCTIVITY,4.5,34809,47M,"1,000+",Paid,$10.99,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 11,COMMUNICATION,3.9,82173,43M,"1,000,000+",Free,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 12,SOCIAL,1.4,42146,30M,100+,Free,0,Teen,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 13,SHOPPING,2.3,52731,90M,"1,000,000+",Free,0,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 14,FINANCE,2.7,16691,41M,"10,000+",Free,$2.99,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 15,FINANCE,4.6,21384,64M,"10,000+",Free,0,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 16,PRODUCTIVITY,1.7,9271,23M,"10,000+",Free,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 17,GAME,4.4,46668,89M,"1,000,000+",Paid,0,Everyone,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 18,FINANCE,1.6,46913,39M,"10,000+",Paid,0,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 19,PRODUCTIVITY,4.1,10309,58M,100+,Free,$9.99,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 20,COMMUNICATION,4.1,60065,87M,"100,000+",Free,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 21,SOCIAL,4.5,79052,25M,100+,Paid,0,Teen,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 22,COMMUNICATION,1.7,80896,34M,"100,000+",Paid,0,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 23,PRODUCTIVITY,3.0,68677,43M,"10,000+",Paid,$10.99,Teen,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 24,ENTERTAINMENT,1.5,41716,48M,"100,000+",Free,0,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 25,COMMUNICATION,4.3,59107,100M,"1,000,000+",Free,$5.99,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 26,EDUCATION,2.2,82747,53M,"100,000+",Paid,$4.99,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 27,TRAVEL,4.0,23140,19M,"1,000,000+",Free,$7.99,Everyone,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 28,PRODUCTIVITY,3.2,86573,19M,"10,000+",Paid,0,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 29,COMMUNICATION,3.7,11176,29M,"1,000+",Free,$6.99,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 30,GAME,4.0,36416,44M,"100,000+",Free,0,Everyone,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 31,ENTERTAINMENT,4.3,22263,4M,"100,000+",Paid,0,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 32,GAME,3.9,19446,38M,"1,000,000+",Free,$7.99,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 33,PRODUCTIVITY,1.2,69847,40M,"10,000+",Free,$5.99,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 34,ENTERTAINMENT,1.2,98105,4M,"100,000+",Paid,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 35,SOCIAL,2.3,90645,57M,"1,000+",Free,0,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 36,TRAVEL,2.9,99443,44M,"100,000+",Paid,$10.99,Everyone,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 37,FINANCE,3.7,37730,41M,100+,Free,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 38,TRAVEL,1.8,36052,65M,"100,000+",Free,0,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 39,COMMUNICATION,1.2,54053,86M,"1,000+",Free,0,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 40,SOCIAL,2.3,70464,67M,100+,Paid,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 41,SHOPPING,1.8,17873,38M,100+,Paid,0,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 42,COMMUNICATION,2.3,65644,27M,100+,Free,0,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 43,PRODUCTIVITY,3.7,62197,74M,"1,000,000+",Paid,$7.99,Everyone 10+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 44,SOCIAL,4.3,94185,55M,"100,000+",Free,0,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 45,TRAVEL,2.6,28051,49M,"100,000+",Paid,0,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 46,TRAVEL,3.9,10027,73M,"1,000+",Paid,0,Everyone,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 47,SOCIAL,4.0,45067,84M,100+,Paid,$10.99,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 48,HEALTH_AND_FITNESS,1.7,31804,93M,100+,Paid,0,Everyone,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 49,SOCIAL,4.5,94029,59M,"1,000,000+",Paid,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 50,ENTERTAINMENT,4.9,1627,72M,"100,000+",Paid,0,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 51,EDUCATION,3.1,47267,23M,"100,000+",Paid,0,Everyone,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 52,SOCIAL,2.9,84750,69M,"1,000+",Free,0,Everyone 10+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 53,FINANCE,2.4,14,52M,100+,Paid,0,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 54,COMMUNICATION,2.7,54202,35M,100+,Paid,0,Teen,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 55,FINANCE,4.6,85859,66M,"10,000+",Paid,$4.99,Mature 17+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 56,SHOPPING,2.4,66649,12M,"1,000+",Paid,0,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 57,SHOPPING,2.4,23052,68M,"1,000,000+",Free,0,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 58,FINANCE,4.3,33156,54M,"10,000+",Free,0,Everyone 10+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 59,GAME,2.4,67155,73M,"10,000+",Paid,0,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 60,SOCIAL,1.1,54824,13M,"1,000+",Paid,0,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 61,SHOPPING,1.1,14099,12M,"100,000+",Free,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 62,COMMUNICATION,4.2,97134,24M,"10,000+",Free,0,Mature 17+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 63,EDUCATION,4.4,93682,76M,"1,000,000+",Free,0,Everyone,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 64,SHOPPING,4.0,26416,48M,"1,000+",Free,0,Teen,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 65,FINANCE,1.1,11594,99M,100+,Paid,0,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 66,PRODUCTIVITY,3.9,45059,16M,"1,000,000+",Free,0,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 67,ENTERTAINMENT,1.6,59304,77M,"10,000+",Free,$9.99,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 68,SOCIAL,2.7,36807,14M,"1,000,000+",Free,0,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 69,HEALTH_AND_FITNESS,2.0,11767,73M,"1,000+",Paid,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 70,HEALTH_AND_FITNESS,2.0,13781,72M,"1,000+",Free,0,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 71,FINANCE,1.7,17686,71M,"10,000+",Paid,0,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 72,SOCIAL,4.3,40003,34M,100+,Free,$7.99,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 73,FINANCE,2.9,15021,77M,"1,000+",Paid,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 74,COMMUNICATION,4.4,68756,8M,"1,000+",Paid,0,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 75,PRODUCTIVITY,3.0,86998,96M,"1,000,000+",Free,0,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 76,SOCIAL,3.7,48171,32M,"10,000+",Free,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 77,SHOPPING,3.3,23417,16M,"10,000+",Paid,$8.99,Everyone,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 78,SOCIAL,2.9,70196,95M,100+,Paid,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 79,TRAVEL,2.2,43145,74M,"1,000+",Free,0,Everyone,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 80,HEALTH_AND_FITNESS,1.4,384,6M,"100,000+",Paid,0,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 81,COMMUNICATION,4.5,71356,38M,"1,000+",Paid,$1.99,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 82,GAME,2.8,54586,87M,100+,Free,0,Mature 17+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 83,ENTERTAINMENT,2.3,14861,91M,"1,000+",Paid,0,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 84,PRODUCTIVITY,2.4,90864,82M,100+,Paid,0,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 85,PRODUCTIVITY,4.4,20116,51M,"1,000+",Free,0,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 86,SHOPPING,2.7,23437,88M,"1,000+",Paid,0,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 87,SOCIAL,2.5,75007,42M,"100,000+",Free,0,Everyone,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 88,SOCIAL,3.1,31458,63M,"1,000+",Paid,0,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 89,FINANCE,4.6,79496,65M,"1,000+",Paid,$5.99,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 90,SOCIAL,4.8,52255,89M,100+,Free,0,Teen,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 91,HEALTH_AND_FITNESS,1.9,41588,27M,"100,000+",Paid,0,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 92,SHOPPING,3.9,31405,63M,100+,Free,0,Teen,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 93,SHOPPING,1.5,2718,80M,"1,000+",Paid,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 94,ENTERTAINMENT,2.0,71167,58M,100+,Free,0,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 95,FINANCE,1.9,85781,54M,100+,Free,0,Everyone,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 96,GAME,3.6,37614,79M,"10,000+",Free,$4.99,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 97,FINANCE,1.1,44987,18M,"1,000+",Free,0,Teen,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 98,TRAVEL,1.4,41708,77M,100+,Paid,$9.99,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 99,SHOPPING,4.1,23650,48M,"10,000+",Free,$6.99,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 100,ENTERTAINMENT,1.4,73393,20M,"100,000+",Paid,0,Everyone,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 101,HEALTH_AND_FITNESS,2.7,17341,7M,"10,000+",Free,0,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 102,TRAVEL,1.8,70076,10M,"100,000+",Paid,0,Everyone 10+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 103,EDUCATION,4.0,36372,58M,"1,000+",Paid,0,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 104,COMMUNICATION,4.3,16594,44M,"1,000+",Free,0,Everyone 10+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 105,EDUCATION,1.1,1702,17M,"1,000,000+",Paid,0,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 106,SHOPPING,3.3,33127,85M,"10,000+",Free,$5.99,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 107,HEALTH_AND_FITNESS,1.1,19297,22M,100+,Free,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 108,FINANCE,3.0,82502,74M,"100,000+",Paid,0,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 109,SOCIAL,1.5,86743,76M,"1,000,000+",Free,0,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 110,SOCIAL,1.6,4175,33M,"10,000+",Free,$9.99,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 111,HEALTH_AND_FITNESS,2.2,71141,85M,"1,000,000+",Free,0,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 112,HEALTH_AND_FITNESS,1.6,45625,99M,"1,000+",Free,0,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 113,COMMUNICATION,2.4,46112,99M,100+,Free,0,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 114,SOCIAL,1.7,94575,57M,"1,000+",Paid,$3.99,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 115,SOCIAL,2.3,43487,52M,"10,000+",Paid,0,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 116,PRODUCTIVITY,2.7,98840,100M,100+,Paid,0,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 117,EDUCATION,3.3,47309,34M,"10,000+",Paid,$10.99,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 118,FINANCE,3.5,20458,13M,100+,Paid,0,Everyone,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 119,FINANCE,5.0,38635,28M,"100,000+",Paid,0,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 120,GAME,1.1,32647,12M,"100,000+",Free,$8.99,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 121,PRODUCTIVITY,2.5,34678,99M,"10,000+",Free,0,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 122,SOCIAL,4.3,15496,52M,"10,000+",Paid,$8.99,Everyone,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 123,ENTERTAINMENT,1.5,90769,95M,"1,000+",Free,0,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 124,PRODUCTIVITY,4.3,97141,96M,"1,000+",Free,0,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 125,EDUCATION,2.9,98775,93M,"100,000+",Paid,0,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 126,SHOPPING,4.8,24811,47M,100+,Free,0,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 127,PRODUCTIVITY,3.3,80227,13M,"1,000,000+",Paid,$10.99,Teen,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 128,ENTERTAINMENT,3.8,40822,82M,"100,000+",Paid,0,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 129,HEALTH_AND_FITNESS,1.1,64588,81M,"1,000,000+",Paid,0,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 130,TRAVEL,2.6,55074,39M,"100,000+",Free,0,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 131,ENTERTAINMENT,2.0,49916,65M,"10,000+",Paid,0,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 132,GAME,4.6,68510,9M,"1,000,000+",Paid,0,Teen,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 133,COMMUNICATION,3.4,68884,42M,"10,000+",Paid,$10.99,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 134,PRODUCTIVITY,4.6,47435,54M,"100,000+",Free,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 135,COMMUNICATION,4.0,6110,43M,"100,000+",Free,0,Everyone 10+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 136,GAME,3.5,825,26M,"10,000+",Free,$5.99,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 137,TRAVEL,4.6,35194,52M,"1,000,000+",Free,0,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 138,GAME,1.8,16993,15M,"10,000+",Paid,0,Mature 17+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 139,SHOPPING,3.5,10194,77M,"1,000,000+",Paid,0,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 140,COMMUNICATION,2.8,10509,19M,100+,Free,0,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 141,SHOPPING,1.1,79764,25M,"1,000,000+",Free,$2.99,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 142,GAME,1.8,19323,80M,"10,000+",Paid,$6.99,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 143,ENTERTAINMENT,2.1,10571,77M,"1,000,000+",Paid,0,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 144,GAME,4.4,95787,27M,"100,000+",Paid,0,Mature 17+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 145,HEALTH_AND_FITNESS,4.4,56616,76M,"100,000+",Paid,0,Mature 17+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 146,SHOPPING,2.2,91637,64M,"1,000,000+",Paid,0,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 147,ENTERTAINMENT,4.6,38464,26M,"1,000,000+",Free,0,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 148,COMMUNICATION,2.5,63188,52M,"100,000+",Paid,$3.99,Mature 17+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 149,TRAVEL,2.7,12695,82M,"1,000,000+",Paid,$2.99,Everyone,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 150,TRAVEL,3.0,89592,6M,"1,000+",Free,0,Everyone 10+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 151,TRAVEL,3.5,22686,3M,"100,000+",Paid,0,Mature 17+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 152,FINANCE,1.3,38115,54M,"10,000+",Paid,0,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 153,SOCIAL,4.3,38912,39M,"1,000,000+",Paid,0,Teen,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 154,SOCIAL,2.6,7177,12M,"100,000+",Free,$9.99,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 155,PRODUCTIVITY,3.6,49261,7M,"1,000,000+",Free,0,Teen,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 156,EDUCATION,4.6,6902,45M,"100,000+",Free,0,Mature 17+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 157,SHOPPING,3.9,80252,87M,"1,000,000+",Paid,$3.99,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 158,FINANCE,3.8,99391,69M,"1,000+",Free,$10.99,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 159,EDUCATION,2.5,84913,18M,100+,Free,0,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 160,EDUCATION,4.4,2157,17M,"1,000+",Free,0,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 161,SOCIAL,1.6,34003,13M,"100,000+",Free,0,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 162,FINANCE,2.8,41344,80M,"1,000+",Paid,0,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 163,EDUCATION,4.2,90351,22M,"100,000+",Paid,$6.99,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 164,EDUCATION,3.7,67302,5M,100+,Free,0,Everyone,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 165,GAME,2.4,46152,42M,"1,000,000+",Paid,$3.99,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 166,SOCIAL,4.3,15739,4M,"100,000+",Free,0,Everyone 10+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 167,COMMUNICATION,3.0,72068,98M,"1,000,000+",Paid,0,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 168,GAME,4.7,4495,84M,100+,Free,$5.99,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 169,SOCIAL,1.9,7656,51M,"1,000+",Free,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 170,GAME,1.6,46339,99M,"10,000+",Free,$9.99,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 171,SHOPPING,2.5,73261,36M,"100,000+",Free,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 172,COMMUNICATION,2.1,11842,95M,"1,000+",Paid,0,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 173,SHOPPING,4.4,12994,40M,"1,000+",Free,$6.99,Mature 17+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 174,HEALTH_AND_FITNESS,4.3,63968,99M,100+,Paid,$8.99,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 175,PRODUCTIVITY,1.5,2225,18M,100+,Free,0,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 176,GAME,5.0,92890,49M,"1,000+",Paid,$9.99,Everyone 10+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 177,GAME,4.5,28947,39M,"100,000+",Paid,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 178,SHOPPING,1.9,36010,54M,"1,000+",Paid,0,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 179,COMMUNICATION,4.5,9644,1M,"10,000+",Free,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 180,TRAVEL,3.7,8455,16M,100+,Paid,$2.99,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 181,COMMUNICATION,3.4,38024,95M,"1,000,000+",Free,$10.99,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 182,TRAVEL,4.2,4398,42M,100+,Free,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 183,SOCIAL,1.2,57762,52M,"1,000+",Free,0,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 184,PRODUCTIVITY,2.2,76880,56M,"1,000+",Paid,0,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 185,GAME,4.2,80868,99M,"1,000,000+",Paid,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 186,FINANCE,3.4,30077,80M,"1,000+",Free,0,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 187,FINANCE,5.0,79831,99M,"1,000,000+",Paid,0,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 188,ENTERTAINMENT,3.0,252,58M,"1,000+",Free,0,Everyone,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 189,SOCIAL,4.6,44398,83M,"100,000+",Paid,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 190,PRODUCTIVITY,3.8,47726,5M,"1,000+",Free,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 191,COMMUNICATION,3.7,57607,47M,"1,000,000+",Paid,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 192,PRODUCTIVITY,1.1,69108,40M,"1,000+",Paid,$5.99,Everyone,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 193,SHOPPING,2.5,90925,3M,"1,000,000+",Paid,0,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 194,ENTERTAINMENT,2.0,84664,41M,"100,000+",Paid,$8.99,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 195,FINANCE,2.5,25312,29M,"10,000+",Paid,0,Everyone,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 196,FINANCE,3.3,17728,33M,"1,000+",Paid,0,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 197,COMMUNICATION,2.6,12576,7M,"10,000+",Paid,0,Teen,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 198,EDUCATION,2.0,72413,58M,"1,000+",Free,0,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 199,SOCIAL,3.0,40374,62M,"1,000,000+",Free,$7.99,Everyone 10+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 200,ENTERTAINMENT,2.8,37313,75M,"1,000,000+",Paid,0,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 201,ENTERTAINMENT,4.6,33396,4M,"1,000+",Paid,$5.99,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 202,COMMUNICATION,1.3,55545,40M,"1,000+",Free,0,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 203,EDUCATION,4.9,67196,1M,"1,000+",Paid,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 204,TRAVEL,2.1,98991,65M,"1,000+",Paid,$4.99,Everyone,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 205,SHOPPING,1.3,48903,84M,"1,000+",Free,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 206,COMMUNICATION,3.6,27788,80M,"100,000+",Paid,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 207,GAME,1.8,96024,75M,"1,000,000+",Paid,0,Everyone,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 208,SOCIAL,3.0,74924,47M,"10,000+",Free,0,Everyone 10+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 209,FINANCE,3.3,20900,96M,"10,000+",Free,$6.99,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 210,SHOPPING,2.8,6285,28M,"100,000+",Paid,$6.99,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 211,SHOPPING,3.5,54813,22M,"1,000,000+",Paid,$10.99,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 212,EDUCATION,4.3,74613,73M,"100,000+",Paid,0,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 213,ENTERTAINMENT,3.2,16340,96M,"100,000+",Paid,0,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 214,FINANCE,3.0,71026,100M,"1,000,000+",Paid,0,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 215,FINANCE,4.4,64321,94M,"1,000+",Paid,0,Teen,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 216,SHOPPING,3.1,24897,95M,"100,000+",Free,$9.99,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 217,ENTERTAINMENT,4.2,36270,75M,100+,Paid,$7.99,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 218,SHOPPING,4.9,96997,82M,"1,000,000+",Free,0,Everyone 10+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 219,COMMUNICATION,1.1,61872,94M,"1,000+",Free,$4.99,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 220,ENTERTAINMENT,3.8,36370,29M,100+,Paid,0,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 221,SHOPPING,4.9,33242,17M,"100,000+",Paid,$3.99,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 222,SHOPPING,4.7,15862,81M,"10,000+",Paid,0,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 223,ENTERTAINMENT,1.8,73371,26M,"10,000+",Paid,$3.99,Teen,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 224,SOCIAL,1.2,27950,43M,"100,000+",Paid,$7.99,Everyone,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 225,GAME,4.8,25270,80M,"10,000+",Paid,0,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 226,TRAVEL,4.0,25287,22M,"1,000,000+",Paid,0,Everyone,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 227,EDUCATION,4.9,63469,52M,"1,000+",Paid,$8.99,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 228,EDUCATION,4.3,91609,60M,"1,000+",Paid,0,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 229,HEALTH_AND_FITNESS,3.6,83984,43M,"1,000+",Paid,$8.99,Mature 17+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 230,SOCIAL,4.5,89156,15M,"100,000+",Free,0,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 231,GAME,3.1,48561,37M,"10,000+",Free,0,Mature 17+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 232,HEALTH_AND_FITNESS,2.4,51518,48M,"1,000,000+",Free,0,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 233,ENTERTAINMENT,3.8,79336,80M,"1,000+",Paid,$10.99,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 234,HEALTH_AND_FITNESS,4.0,27446,83M,"1,000,000+",Paid,$10.99,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 235,ENTERTAINMENT,1.4,57529,93M,"10,000+",Free,0,Mature 17+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 236,TRAVEL,1.5,12322,5M,100+,Free,0,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 237,ENTERTAINMENT,3.1,49144,31M,"100,000+",Paid,0,Teen,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 238,PRODUCTIVITY,2.7,52016,93M,"10,000+",Paid,0,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 239,GAME,2.6,98590,51M,100+,Free,0,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 240,PRODUCTIVITY,1.0,42307,1M,"100,000+",Free,0,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 241,EDUCATION,3.5,73912,2M,100+,Free,0,Everyone 10+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 242,FINANCE,4.3,51083,45M,100+,Free,$10.99,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 243,TRAVEL,4.4,25423,22M,"100,000+",Free,0,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 244,GAME,2.5,86871,35M,"10,000+",Paid,0,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 245,SHOPPING,2.1,6754,59M,"1,000+",Paid,0,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 246,EDUCATION,1.0,95930,37M,"1,000+",Paid,0,Mature 17+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 247,PRODUCTIVITY,3.0,52631,43M,100+,Free,0,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 248,SHOPPING,3.2,20692,87M,"100,000+",Paid,0,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 249,SHOPPING,2.9,35355,42M,100+,Paid,0,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 250,COMMUNICATION,1.4,53264,12M,"10,000+",Free,0,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 251,COMMUNICATION,3.0,83221,41M,"100,000+",Free,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 252,HEALTH_AND_FITNESS,1.7,38483,87M,100+,Paid,$8.99,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 253,FINANCE,4.7,69603,97M,"10,000+",Free,$9.99,Teen,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 254,PRODUCTIVITY,4.1,64881,10M,"10,000+",Free,0,Mature 17+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 255,TRAVEL,4.5,8932,99M,"1,000+",Paid,0,Everyone 10+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 256,GAME,3.5,59679,46M,"1,000+",Free,0,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 257,SOCIAL,4.4,95507,71M,"1,000,000+",Paid,$6.99,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 258,ENTERTAINMENT,4.3,57569,8M,100+,Paid,0,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 259,ENTERTAINMENT,2.8,62878,75M,100+,Free,0,Mature 17+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 260,GAME,3.6,40786,20M,"1,000+",Free,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 261,HEALTH_AND_FITNESS,3.5,64350,26M,"1,000+",Free,$10.99,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 262,EDUCATION,1.7,68143,34M,100+,Paid,0,Everyone 10+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 263,COMMUNICATION,1.7,78874,81M,"1,000,000+",Free,0,Everyone 10+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 264,FINANCE,4.5,77459,95M,"100,000+",Free,0,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 265,HEALTH_AND_FITNESS,1.1,46526,71M,"10,000+",Free,0,Everyone 10+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 266,PRODUCTIVITY,3.1,9609,32M,"1,000+",Free,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 267,SHOPPING,2.2,1118,63M,"1,000,000+",Free,$4.99,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 268,HEALTH_AND_FITNESS,3.2,64371,100M,"100,000+",Free,$5.99,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 269,SHOPPING,1.9,98056,11M,"10,000+",Free,$3.99,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 270,FINANCE,1.7,5854,15M,"10,000+",Free,0,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 271,HEALTH_AND_FITNESS,4.5,45013,16M,"100,000+",Paid,0,Teen,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 272,EDUCATION,4.3,94122,15M,"100,000+",Paid,$7.99,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 273,TRAVEL,2.8,71709,39M,"10,000+",Free,$3.99,Mature 17+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 274,FINANCE,2.6,97007,7M,"1,000+",Paid,0,Everyone,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 275,HEALTH_AND_FITNESS,3.6,30955,16M,"10,000+",Free,0,Mature 17+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 276,TRAVEL,2.9,69190,56M,"100,000+",Free,0,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 277,SHOPPING,4.0,56465,59M,"1,000,000+",Free,$5.99,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 278,PRODUCTIVITY,2.1,36714,10M,"100,000+",Paid,$6.99,Everyone 10+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 279,ENTERTAINMENT,3.4,93334,93M,"100,000+",Free,0,Mature 17+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 280,TRAVEL,1.4,55425,56M,"100,000+",Free,0,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 281,PRODUCTIVITY,4.0,72829,36M,"1,000,000+",Free,$6.99,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 282,ENTERTAINMENT,2.5,96868,75M,"10,000+",Paid,0,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 283,GAME,4.4,53712,14M,"100,000+",Paid,0,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 284,TRAVEL,2.7,88259,50M,100+,Free,0,Everyone,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 285,SOCIAL,5.0,18494,77M,100+,Free,0,Teen,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 286,FINANCE,3.9,95118,74M,"10,000+",Free,0,Everyone,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 287,ENTERTAINMENT,1.8,56575,91M,"10,000+",Free,0,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 288,HEALTH_AND_FITNESS,4.1,30705,40M,"1,000,000+",Free,0,Teen,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 289,ENTERTAINMENT,2.6,36298,43M,100+,Free,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 290,COMMUNICATION,1.4,84978,17M,"1,000+",Free,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 291,TRAVEL,1.1,31378,10M,"100,000+",Paid,0,Everyone,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 292,EDUCATION,4.7,34607,13M,100+,Paid,0,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 293,HEALTH_AND_FITNESS,1.8,96966,70M,"1,000+",Paid,0,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 294,HEALTH_AND_FITNESS,3.9,61084,89M,"100,000+",Free,0,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 295,SHOPPING,1.6,31453,62M,100+,Free,0,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 296,EDUCATION,3.2,92949,76M,"1,000,000+",Free,0,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 297,PRODUCTIVITY,3.9,32132,93M,"10,000+",Free,0,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 298,GAME,3.2,15918,31M,"10,000+",Free,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 299,SHOPPING,2.7,1395,36M,"1,000,000+",Free,0,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 300,COMMUNICATION,3.5,80331,84M,"1,000+",Paid,0,Everyone 10+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 301,PRODUCTIVITY,2.6,22175,97M,100+,Free,$10.99,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 302,SOCIAL,3.4,40399,89M,"100,000+",Paid,0,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 303,ENTERTAINMENT,1.8,6841,52M,"1,000,000+",Free,$9.99,Everyone,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 304,GAME,2.9,23902,79M,"10,000+",Free,$5.99,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 305,SOCIAL,2.9,32614,22M,"10,000+",Paid,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 306,COMMUNICATION,2.7,41378,22M,"10,000+",Paid,$8.99,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 307,ENTERTAINMENT,2.4,32932,73M,"10,000+",Paid,0,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 308,GAME,1.6,18493,17M,"100,000+",Free,$8.99,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 309,ENTERTAINMENT,3.0,27479,24M,"1,000,000+",Free,0,Mature 17+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 310,SHOPPING,4.3,60801,33M,100+,Paid,0,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 311,EDUCATION,2.5,9627,43M,"1,000+",Paid,0,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 312,EDUCATION,2.1,9088,31M,"1,000+",Free,$7.99,Mature 17+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 313,GAME,3.6,37977,8M,"1,000+",Paid,0,Teen,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 314,ENTERTAINMENT,1.3,75364,34M,"100,000+",Free,0,Teen,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 315,COMMUNICATION,4.0,6468,77M,"100,000+",Paid,0,Mature 17+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 316,FINANCE,2.4,58156,62M,100+,Paid,0,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 317,SOCIAL,3.3,13387,97M,"1,000,000+",Paid,0,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 318,PRODUCTIVITY,4.0,95238,7M,100+,Free,0,Teen,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 319,COMMUNICATION,3.9,23786,37M,"100,000+",Free,0,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 320,EDUCATION,1.3,33180,91M,"100,000+",Paid,0,Mature 17+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 321,HEALTH_AND_FITNESS,3.4,24070,57M,100+,Free,$7.99,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 322,TRAVEL,4.8,13644,9M,"10,000+",Paid,0,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 323,SOCIAL,1.5,18483,58M,"1,000,000+",Paid,0,Everyone,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 324,ENTERTAINMENT,4.2,15392,10M,"10,000+",Paid,0,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 325,FINANCE,1.0,32344,29M,100+,Free,0,Mature 17+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 326,TRAVEL,3.2,77033,61M,"10,000+",Paid,0,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 327,TRAVEL,2.2,71217,83M,"10,000+",Free,$8.99,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 328,EDUCATION,1.9,3571,71M,"1,000,000+",Free,0,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 329,HEALTH_AND_FITNESS,3.4,67922,37M,"10,000+",Free,$10.99,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 330,SOCIAL,1.6,15785,2M,"100,000+",Free,0,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 331,EDUCATION,3.8,18210,33M,"1,000,000+",Free,0,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 332,PRODUCTIVITY,4.2,55288,79M,"10,000+",Free,$6.99,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 333,EDUCATION,4.9,75784,15M,"100,000+",Free,$4.99,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 334,COMMUNICATION,3.2,71072,17M,"1,000+",Free,$4.99,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 335,TRAVEL,2.2,22536,9M,100+,Paid,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 336,SHOPPING,1.8,96468,48M,100+,Paid,$2.99,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 337,GAME,4.5,83786,54M,"10,000+",Free,$10.99,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 338,SHOPPING,1.3,14883,29M,"1,000+",Paid,0,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 339,FINANCE,2.0,89924,57M,"100,000+",Free,0,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 340,PRODUCTIVITY,4.5,10264,94M,"1,000,000+",Free,$6.99,Everyone 10+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 341,GAME,1.3,36787,3M,"1,000,000+",Paid,0,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 342,GAME,3.6,45581,61M,"1,000,000+",Free,0,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 343,ENTERTAINMENT,4.7,53292,58M,"100,000+",Free,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 344,SHOPPING,4.6,22759,41M,"10,000+",Paid,0,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 345,SHOPPING,3.6,38350,63M,"1,000+",Paid,0,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 346,PRODUCTIVITY,2.6,38415,76M,100+,Paid,$1.99,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 347,HEALTH_AND_FITNESS,1.6,6999,63M,"1,000+",Paid,0,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 348,EDUCATION,1.5,10699,62M,"1,000+",Paid,0,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 349,GAME,2.3,11590,6M,"10,000+",Free,0,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 350,HEALTH_AND_FITNESS,1.1,27271,99M,"1,000,000+",Paid,0,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 351,TRAVEL,5.0,67369,94M,"10,000+",Free,$10.99,Mature 17+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 352,COMMUNICATION,4.3,78503,20M,"100,000+",Paid,0,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 353,COMMUNICATION,3.9,42698,93M,"10,000+",Free,0,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 354,FINANCE,1.9,82853,42M,"1,000,000+",Paid,$10.99,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 355,SOCIAL,4.8,5142,23M,"10,000+",Paid,0,Teen,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 356,FINANCE,1.9,10654,94M,100+,Paid,0,Teen,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 357,ENTERTAINMENT,3.6,22377,7M,"10,000+",Paid,0,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 358,HEALTH_AND_FITNESS,4.5,69686,59M,"1,000,000+",Free,$4.99,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 359,SOCIAL,2.2,97775,99M,100+,Paid,0,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 360,SOCIAL,1.2,31371,14M,"100,000+",Free,0,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 361,TRAVEL,2.3,47777,60M,"10,000+",Paid,0,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 362,EDUCATION,4.5,76133,100M,100+,Free,0,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 363,TRAVEL,1.9,50410,15M,"10,000+",Free,$8.99,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 364,GAME,1.5,75293,97M,"1,000,000+",Paid,0,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 365,SHOPPING,4.2,62792,71M,"1,000,000+",Paid,0,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 366,HEALTH_AND_FITNESS,3.5,92884,96M,"1,000+",Free,0,Everyone,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 367,FINANCE,3.3,64857,38M,100+,Paid,$2.99,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 368,SOCIAL,2.1,91221,46M,"10,000+",Free,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 369,SHOPPING,1.9,40325,95M,"1,000+",Paid,0,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 370,TRAVEL,3.3,44225,68M,"10,000+",Free,0,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 371,EDUCATION,2.4,45764,26M,"10,000+",Paid,$8.99,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 372,COMMUNICATION,1.9,94756,24M,"1,000,000+",Paid,0,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 373,PRODUCTIVITY,1.2,76490,43M,"1,000+",Paid,0,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 374,COMMUNICATION,3.4,17705,89M,"10,000+",Free,0,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 375,EDUCATION,3.2,36981,26M,"1,000+",Paid,0,Everyone,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 376,COMMUNICATION,4.6,86097,30M,"10,000+",Free,0,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 377,FINANCE,1.4,29643,43M,"10,000+",Paid,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 378,GAME,3.1,10215,14M,"10,000+",Paid,0,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 379,SOCIAL,1.9,28628,43M,100+,Paid,$10.99,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 380,SOCIAL,4.5,77386,36M,"1,000+",Free,0,Everyone 10+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 381,SOCIAL,4.7,64979,96M,"10,000+",Paid,0,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 382,SHOPPING,4.3,21859,65M,"100,000+",Free,0,Teen,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 383,SHOPPING,2.6,12156,64M,"1,000+",Free,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 384,EDUCATION,3.0,71597,51M,"1,000+",Free,0,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 385,GAME,1.0,49353,12M,"10,000+",Free,0,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 386,SHOPPING,1.2,79471,77M,"1,000+",Free,$6.99,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 387,PRODUCTIVITY,2.4,213,3M,"100,000+",Paid,$2.99,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 388,FINANCE,4.2,93009,39M,"1,000,000+",Paid,0,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 389,SHOPPING,1.5,92306,32M,"100,000+",Paid,0,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 390,TRAVEL,4.6,1941,31M,"1,000,000+",Free,0,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 391,COMMUNICATION,2.5,35582,11M,"100,000+",Paid,0,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 392,EDUCATION,4.2,23329,45M,"1,000+",Free,0,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 393,ENTERTAINMENT,4.8,23275,30M,"100,000+",Paid,$1.99,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 394,ENTERTAINMENT,3.7,26150,40M,100+,Paid,$9.99,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 395,PRODUCTIVITY,2.6,31622,73M,"10,000+",Paid,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 396,GAME,2.9,91051,53M,"1,000,000+",Free,0,Everyone,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 397,FINANCE,2.4,37449,6M,"10,000+",Free,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 398,ENTERTAINMENT,1.6,65251,71M,"100,000+",Free,0,Teen,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 399,FINANCE,4.6,60835,35M,"100,000+",Paid,$4.99,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 400,COMMUNICATION,2.1,70157,34M,100+,Free,0,Everyone,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 401,COMMUNICATION,4.1,4291,77M,"1,000+",Paid,0,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 402,EDUCATION,4.2,87506,1M,"1,000,000+",Free,0,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 403,PRODUCTIVITY,3.8,86620,100M,"10,000+",Paid,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 404,EDUCATION,3.8,46892,17M,"1,000,000+",Free,$5.99,Mature 17+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 405,HEALTH_AND_FITNESS,3.7,92101,5M,"100,000+",Free,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 406,ENTERTAINMENT,4.7,74339,80M,"1,000+",Paid,0,Everyone,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 407,SHOPPING,1.2,41529,16M,"100,000+",Free,0,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 408,SOCIAL,4.3,2641,18M,"1,000+",Free,0,Everyone,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 409,COMMUNICATION,1.6,68493,69M,"1,000+",Free,$4.99,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 410,COMMUNICATION,2.9,16276,72M,"100,000+",Paid,$7.99,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 411,COMMUNICATION,2.7,33865,74M,100+,Paid,$5.99,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 412,HEALTH_AND_FITNESS,3.1,90501,73M,"1,000+",Free,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 413,ENTERTAINMENT,3.7,79947,28M,"100,000+",Free,0,Teen,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 414,HEALTH_AND_FITNESS,2.4,20891,57M,"1,000+",Free,0,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 415,TRAVEL,1.4,41066,56M,"100,000+",Free,$10.99,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 416,ENTERTAINMENT,1.8,48906,57M,"10,000+",Free,0,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 417,SOCIAL,1.0,92179,34M,"100,000+",Paid,$10.99,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 418,HEALTH_AND_FITNESS,2.0,67917,1M,"1,000,000+",Paid,0,Everyone,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 419,HEALTH_AND_FITNESS,2.4,10689,79M,"1,000,000+",Free,0,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 420,COMMUNICATION,1.1,17088,7M,"1,000,000+",Free,0,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 421,FINANCE,1.7,54697,19M,"1,000,000+",Paid,0,Teen,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 422,SHOPPING,4.6,60826,39M,"1,000+",Paid,$3.99,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 423,COMMUNICATION,3.7,44789,47M,"1,000,000+",Paid,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 424,COMMUNICATION,3.0,24614,1M,"1,000+",Free,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 425,FINANCE,4.1,31387,73M,"100,000+",Free,$4.99,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 426,COMMUNICATION,5.0,78412,77M,"10,000+",Free,0,Teen,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 427,HEALTH_AND_FITNESS,3.8,45157,17M,"1,000+",Paid,0,Everyone 10+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 428,SHOPPING,1.9,78016,30M,"100,000+",Paid,0,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 429,ENTERTAINMENT,1.2,79130,13M,"1,000,000+",Paid,0,Everyone 10+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 430,EDUCATION,3.9,14666,91M,100+,Paid,$10.99,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 431,PRODUCTIVITY,1.7,159,91M,"100,000+",Paid,0,Teen,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 432,FINANCE,4.6,77862,56M,"100,000+",Free,$8.99,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 433,EDUCATION,1.6,54689,84M,"10,000+",Paid,$2.99,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 434,GAME,4.9,9396,1M,"100,000+",Free,0,Teen,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 435,SOCIAL,4.8,21998,44M,"1,000,000+",Free,$5.99,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 436,HEALTH_AND_FITNESS,3.0,32329,51M,"1,000+",Paid,0,Everyone,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 437,HEALTH_AND_FITNESS,2.3,89762,9M,"10,000+",Free,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 438,HEALTH_AND_FITNESS,2.6,51331,78M,"1,000+",Paid,$3.99,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 439,SOCIAL,4.7,73113,70M,"1,000,000+",Free,0,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 440,HEALTH_AND_FITNESS,3.8,55158,80M,"10,000+",Paid,0,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 441,SHOPPING,4.8,66552,24M,"100,000+",Paid,$1.99,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 442,HEALTH_AND_FITNESS,3.6,39086,29M,"1,000+",Paid,$5.99,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 443,ENTERTAINMENT,4.9,36470,45M,"100,000+",Paid,0,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 444,FINANCE,2.4,58595,11M,"1,000,000+",Free,$10.99,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 445,HEALTH_AND_FITNESS,1.6,87381,92M,"10,000+",Free,$6.99,Mature 17+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 446,HEALTH_AND_FITNESS,2.7,53191,2M,"100,000+",Free,$3.99,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 447,GAME,3.8,90890,67M,"1,000,000+",Paid,0,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 448,EDUCATION,3.8,70130,7M,100+,Paid,$2.99,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 449,HEALTH_AND_FITNESS,5.0,84818,48M,"1,000+",Free,0,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 450,SHOPPING,1.8,7801,71M,"100,000+",Free,0,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 451,SOCIAL,3.0,85971,5M,"10,000+",Paid,0,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 452,PRODUCTIVITY,4.8,76909,8M,"1,000,000+",Paid,0,Mature 17+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 453,HEALTH_AND_FITNESS,3.0,33219,6M,"10,000+",Paid,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 454,COMMUNICATION,1.5,84970,42M,"1,000,000+",Paid,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 455,GAME,3.3,7447,87M,"1,000,000+",Free,$5.99,Everyone,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 456,HEALTH_AND_FITNESS,4.9,407,23M,"1,000,000+",Paid,0,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 457,SHOPPING,4.5,65630,97M,"1,000+",Free,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 458,TRAVEL,2.8,69396,59M,"10,000+",Free,0,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 459,SOCIAL,3.8,45774,3M,"1,000,000+",Paid,0,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 460,TRAVEL,1.3,62331,22M,"100,000+",Paid,0,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 461,EDUCATION,3.4,95122,7M,"1,000+",Free,0,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 462,SHOPPING,3.2,40316,88M,"100,000+",Paid,$2.99,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 463,SOCIAL,3.3,4714,5M,"100,000+",Paid,$6.99,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 464,TRAVEL,4.1,40218,42M,"1,000+",Free,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 465,GAME,4.8,4531,87M,100+,Free,$10.99,Mature 17+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 466,GAME,3.8,54770,13M,"1,000+",Paid,0,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 467,HEALTH_AND_FITNESS,4.3,1080,14M,"1,000,000+",Free,0,Mature 17+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 468,TRAVEL,2.8,94984,72M,"100,000+",Free,0,Everyone,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 469,GAME,4.1,83289,3M,"1,000+",Free,0,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 470,HEALTH_AND_FITNESS,2.0,36719,85M,"10,000+",Paid,$9.99,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 471,ENTERTAINMENT,4.8,99621,40M,100+,Paid,0,Teen,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 472,FINANCE,3.7,44919,15M,"1,000+",Paid,$2.99,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 473,SHOPPING,1.7,8915,1M,"1,000,000+",Free,0,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 474,ENTERTAINMENT,4.9,57360,47M,"1,000,000+",Free,0,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 475,TRAVEL,2.5,94532,38M,100+,Free,$1.99,Mature 17+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 476,FINANCE,2.0,43907,53M,100+,Paid,0,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 477,COMMUNICATION,2.3,96098,72M,"10,000+",Paid,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 478,TRAVEL,1.8,58080,44M,"100,000+",Free,0,Mature 17+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 479,SHOPPING,1.5,5990,6M,"1,000+",Free,0,Mature 17+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 480,FINANCE,2.0,16054,22M,"1,000,000+",Paid,0,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 481,EDUCATION,2.2,75156,21M,"100,000+",Paid,$6.99,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 482,HEALTH_AND_FITNESS,1.9,39537,24M,100+,Free,0,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 483,SHOPPING,3.9,16213,47M,"1,000+",Free,$2.99,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 484,ENTERTAINMENT,2.9,34736,81M,"100,000+",Free,0,Everyone,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 485,FINANCE,4.7,77667,32M,"100,000+",Paid,0,Everyone 10+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 486,EDUCATION,3.6,63572,21M,"1,000,000+",Paid,0,Everyone,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 487,GAME,4.3,5575,3M,"10,000+",Paid,0,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 488,GAME,2.6,42344,89M,"1,000,000+",Free,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 489,FINANCE,3.2,4364,17M,100+,Free,0,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 490,TRAVEL,4.5,57220,22M,100+,Free,0,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 491,EDUCATION,2.1,92059,65M,"100,000+",Free,0,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 492,ENTERTAINMENT,4.7,44458,99M,100+,Paid,$4.99,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 493,EDUCATION,1.4,18384,38M,"10,000+",Free,0,Everyone,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 494,SHOPPING,4.0,96956,58M,100+,Free,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 495,COMMUNICATION,2.8,12766,39M,"10,000+",Free,0,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 496,SHOPPING,2.8,40683,37M,"1,000+",Free,0,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 497,HEALTH_AND_FITNESS,1.1,5599,31M,"10,000+",Free,$7.99,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 498,TRAVEL,3.9,27406,80M,"100,000+",Free,$7.99,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 499,GAME,2.3,66134,81M,"1,000,000+",Paid,0,Everyone,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 500,PRODUCTIVITY,3.3,33802,23M,"10,000+",Free,0,Everyone,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 501,TRAVEL,3.2,28007,73M,"1,000+",Paid,0,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 502,TRAVEL,4.3,16946,63M,100+,Paid,$8.99,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 503,COMMUNICATION,4.5,68159,66M,"1,000+",Free,0,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 504,SHOPPING,2.6,95135,25M,"100,000+",Paid,$4.99,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 505,COMMUNICATION,2.1,28015,84M,"10,000+",Paid,$8.99,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 506,SOCIAL,3.9,79381,37M,"1,000,000+",Free,0,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 507,HEALTH_AND_FITNESS,4.4,59874,60M,"1,000,000+",Paid,0,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 508,GAME,1.2,91745,81M,"100,000+",Free,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 509,COMMUNICATION,3.0,58612,85M,"10,000+",Free,0,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 510,SOCIAL,3.1,10269,23M,"10,000+",Paid,0,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 511,FINANCE,4.2,55178,88M,"1,000,000+",Free,0,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 512,FINANCE,2.9,9893,90M,"100,000+",Paid,0,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 513,ENTERTAINMENT,2.1,60042,25M,"1,000,000+",Free,$1.99,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 514,FINANCE,3.6,58147,36M,"1,000,000+",Free,0,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 515,COMMUNICATION,1.6,28370,25M,"100,000+",Paid,$5.99,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 516,ENTERTAINMENT,3.5,31063,6M,"1,000,000+",Paid,$7.99,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 517,ENTERTAINMENT,1.7,69216,89M,"1,000,000+",Free,0,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 518,HEALTH_AND_FITNESS,1.4,30007,85M,"100,000+",Paid,$2.99,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 519,FINANCE,3.7,67825,12M,100+,Paid,0,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 520,COMMUNICATION,3.1,80264,43M,"1,000,000+",Free,0,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 521,SOCIAL,4.9,10384,32M,"1,000+",Free,$1.99,Mature 17+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 522,FINANCE,4.3,26279,36M,"1,000,000+",Free,$3.99,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 523,TRAVEL,1.1,42853,38M,"1,000,000+",Free,0,Mature 17+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 524,GAME,4.6,74202,37M,100+,Free,0,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 525,SOCIAL,2.3,65579,9M,"10,000+",Free,$7.99,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 526,HEALTH_AND_FITNESS,2.2,98921,81M,"1,000+",Paid,0,Everyone 10+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 527,TRAVEL,2.7,32770,9M,"1,000,000+",Free,0,Mature 17+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 528,ENTERTAINMENT,2.8,51541,83M,"10,000+",Free,0,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 529,FINANCE,3.6,84608,35M,100+,Free,0,Mature 17+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 530,GAME,3.9,67661,81M,"1,000+",Paid,0,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 531,GAME,2.3,58207,52M,"100,000+",Free,0,Teen,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 532,HEALTH_AND_FITNESS,2.9,94359,75M,"10,000+",Paid,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 533,COMMUNICATION,1.4,73446,7M,"1,000,000+",Free,$10.99,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 534,HEALTH_AND_FITNESS,2.2,89127,90M,100+,Paid,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 535,HEALTH_AND_FITNESS,2.3,94652,14M,"100,000+",Paid,0,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 536,FINANCE,2.3,51593,72M,"1,000+",Free,$7.99,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 537,GAME,2.5,4410,86M,"100,000+",Free,$10.99,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 538,EDUCATION,3.4,84066,35M,"1,000+",Free,$1.99,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 539,FINANCE,2.1,73960,81M,"1,000,000+",Free,0,Teen,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 540,FINANCE,4.7,65493,16M,100+,Free,$2.99,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 541,HEALTH_AND_FITNESS,4.3,97835,11M,100+,Paid,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 542,EDUCATION,3.3,85534,79M,"1,000+",Free,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 543,EDUCATION,5.0,61281,41M,100+,Paid,0,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 544,SHOPPING,4.9,44592,65M,"100,000+",Free,0,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 545,ENTERTAINMENT,3.2,19508,51M,100+,Free,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 546,PRODUCTIVITY,1.0,28813,24M,"1,000+",Paid,$1.99,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 547,FINANCE,2.8,81334,59M,"1,000+",Paid,$5.99,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 548,EDUCATION,2.0,54667,92M,"10,000+",Free,0,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 549,TRAVEL,3.8,46667,15M,"1,000+",Paid,$7.99,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 550,SOCIAL,2.7,22369,75M,100+,Paid,$6.99,Everyone 10+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 551,GAME,2.7,92682,4M,100+,Free,0,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 552,SHOPPING,4.8,24982,54M,100+,Paid,$4.99,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 553,EDUCATION,3.3,27563,45M,100+,Paid,0,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 554,EDUCATION,4.8,83171,13M,"1,000,000+",Paid,0,Everyone 10+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 555,ENTERTAINMENT,3.0,22852,28M,"10,000+",Free,0,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 556,FINANCE,4.1,38670,94M,100+,Free,0,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 557,SOCIAL,3.5,57042,21M,"1,000+",Paid,$9.99,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 558,SOCIAL,2.3,57404,90M,"100,000+",Paid,0,Everyone 10+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 559,GAME,1.6,47096,78M,"1,000+",Free,$10.99,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 560,SHOPPING,3.7,28244,29M,"10,000+",Paid,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 561,COMMUNICATION,3.9,7406,23M,"1,000+",Free,$7.99,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 562,HEALTH_AND_FITNESS,4.6,74535,10M,"1,000+",Paid,0,Everyone 10+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 563,FINANCE,2.3,30830,69M,"100,000+",Free,0,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 564,SOCIAL,4.9,77256,8M,"10,000+",Paid,0,Everyone 10+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 565,FINANCE,3.5,82418,52M,"10,000+",Paid,$5.99,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 566,FINANCE,4.2,68483,93M,100+,Paid,0,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 567,COMMUNICATION,1.6,82338,99M,"1,000,000+",Paid,0,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 568,COMMUNICATION,1.5,42360,97M,"100,000+",Free,0,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 569,ENTERTAINMENT,2.9,50008,35M,100+,Paid,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 570,HEALTH_AND_FITNESS,3.0,83120,91M,"100,000+",Paid,0,Teen,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 571,PRODUCTIVITY,2.9,64712,13M,"1,000+",Free,$5.99,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 572,EDUCATION,1.7,41109,20M,"100,000+",Free,0,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 573,PRODUCTIVITY,2.2,53678,44M,"10,000+",Paid,0,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 574,HEALTH_AND_FITNESS,4.8,63339,56M,"1,000,000+",Paid,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 575,ENTERTAINMENT,1.5,89090,60M,"1,000,000+",Free,0,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 576,FINANCE,4.7,72879,61M,"1,000,000+",Free,$5.99,Everyone,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 577,HEALTH_AND_FITNESS,2.7,64289,75M,"10,000+",Paid,0,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 578,SOCIAL,1.4,41257,70M,"1,000,000+",Free,0,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 579,PRODUCTIVITY,4.3,74274,75M,"1,000,000+",Paid,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 580,EDUCATION,2.5,89847,22M,100+,Paid,0,Mature 17+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 581,EDUCATION,4.2,97528,3M,"1,000+",Free,0,Everyone,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 582,SOCIAL,1.3,62957,68M,"10,000+",Free,0,Everyone,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 583,GAME,4.7,77178,87M,"1,000+",Free,0,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 584,HEALTH_AND_FITNESS,1.5,5398,18M,"100,000+",Paid,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 585,HEALTH_AND_FITNESS,4.1,34996,77M,"1,000+",Paid,0,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 586,SHOPPING,3.6,84276,71M,100+,Paid,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 587,SHOPPING,1.0,20444,42M,"10,000+",Paid,0,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 588,ENTERTAINMENT,4.5,34044,11M,"1,000,000+",Free,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 589,EDUCATION,4.7,75672,34M,100+,Paid,$7.99,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 590,ENTERTAINMENT,2.4,18388,11M,"1,000,000+",Free,0,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 591,FINANCE,4.5,33265,27M,"1,000,000+",Paid,0,Everyone,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 592,COMMUNICATION,1.7,78512,42M,100+,Paid,$6.99,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 593,GAME,3.0,44221,88M,"100,000+",Free,$1.99,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 594,COMMUNICATION,2.3,61257,51M,"1,000+",Paid,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 595,SHOPPING,3.5,9939,84M,"1,000+",Free,$1.99,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 596,SOCIAL,4.1,83120,33M,"1,000,000+",Free,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 597,PRODUCTIVITY,3.2,88230,67M,"1,000,000+",Free,0,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 598,TRAVEL,4.3,54559,44M,"1,000,000+",Paid,0,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 599,TRAVEL,2.8,68190,70M,"100,000+",Paid,0,Teen,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 600,COMMUNICATION,4.9,46282,28M,"100,000+",Free,$6.99,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 601,FINANCE,1.6,85656,78M,100+,Paid,$4.99,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 602,FINANCE,4.3,73359,80M,"1,000,000+",Paid,0,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 603,EDUCATION,2.6,31022,45M,100+,Free,$2.99,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 604,GAME,4.1,74784,76M,"1,000+",Free,$7.99,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 605,GAME,2.6,68639,73M,"10,000+",Paid,$6.99,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 606,HEALTH_AND_FITNESS,1.1,41797,41M,"100,000+",Free,0,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 607,COMMUNICATION,1.9,49569,16M,100+,Paid,0,Teen,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 608,GAME,1.6,64369,6M,"1,000,000+",Free,0,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 609,EDUCATION,1.3,29348,47M,"100,000+",Free,$7.99,Mature 17+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 610,PRODUCTIVITY,4.2,82615,2M,"1,000+",Paid,$5.99,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 611,SHOPPING,3.5,52538,41M,"1,000+",Paid,0,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 612,GAME,4.0,37289,91M,"1,000,000+",Free,0,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 613,COMMUNICATION,1.5,85832,31M,"1,000,000+",Free,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 614,EDUCATION,1.6,36931,48M,100+,Free,$10.99,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 615,TRAVEL,4.2,94796,25M,"1,000+",Free,0,Teen,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 616,GAME,3.1,60875,97M,"10,000+",Free,$3.99,Everyone,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 617,PRODUCTIVITY,4.4,59381,66M,"10,000+",Paid,0,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 618,PRODUCTIVITY,2.7,71532,9M,"1,000,000+",Free,$5.99,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 619,PRODUCTIVITY,4.4,41637,96M,"100,000+",Free,0,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 620,SHOPPING,4.1,67301,30M,"100,000+",Paid,0,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 621,PRODUCTIVITY,1.8,29778,12M,100+,Paid,0,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 622,GAME,3.5,61782,94M,"1,000,000+",Paid,$5.99,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 623,SHOPPING,4.4,297,76M,"10,000+",Free,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 624,SOCIAL,1.4,22492,56M,100+,Free,$8.99,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 625,HEALTH_AND_FITNESS,2.6,16868,61M,"1,000+",Free,0,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 626,FINANCE,1.4,25842,55M,"1,000,000+",Free,$3.99,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 627,SHOPPING,3.3,16418,60M,100+,Paid,$2.99,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 628,GAME,5.0,76352,25M,"10,000+",Paid,0,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 629,SOCIAL,2.5,80900,68M,100+,Paid,0,Everyone,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 630,PRODUCTIVITY,4.7,21071,82M,"1,000+",Free,0,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 631,HEALTH_AND_FITNESS,4.1,97375,1M,"1,000,000+",Free,$4.99,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 632,ENTERTAINMENT,2.7,7000,76M,"10,000+",Free,0,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 633,FINANCE,4.9,73269,88M,"1,000,000+",Free,0,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 634,ENTERTAINMENT,1.5,96120,69M,"1,000+",Free,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 635,PRODUCTIVITY,1.9,11187,51M,100+,Free,0,Teen,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 636,GAME,3.0,37863,83M,"1,000,000+",Paid,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 637,FINANCE,3.7,96585,85M,"1,000+",Paid,0,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 638,PRODUCTIVITY,1.4,10481,22M,"10,000+",Paid,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 639,ENTERTAINMENT,3.9,6212,70M,"1,000+",Paid,0,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 640,FINANCE,3.4,21685,31M,"1,000,000+",Paid,$10.99,Teen,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 641,PRODUCTIVITY,3.6,34500,40M,"100,000+",Free,0,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 642,FINANCE,4.7,29213,77M,"1,000+",Paid,0,Everyone 10+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 643,ENTERTAINMENT,3.1,70622,25M,"100,000+",Free,0,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 644,HEALTH_AND_FITNESS,3.0,76715,4M,"1,000+",Free,0,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 645,HEALTH_AND_FITNESS,3.8,20957,20M,"10,000+",Free,$9.99,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 646,TRAVEL,5.0,86066,96M,100+,Free,$8.99,Mature 17+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 647,SOCIAL,2.9,99115,96M,"1,000,000+",Free,0,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 648,PRODUCTIVITY,1.6,74187,19M,100+,Paid,$5.99,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 649,SHOPPING,4.0,55701,93M,100+,Free,0,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 650,FINANCE,1.9,40106,42M,"1,000+",Free,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 651,SOCIAL,4.0,61930,48M,"1,000+",Paid,0,Mature 17+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 652,FINANCE,3.3,65013,32M,"10,000+",Paid,0,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 653,TRAVEL,4.3,48450,48M,"1,000+",Paid,0,Mature 17+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 654,PRODUCTIVITY,3.6,75765,44M,"1,000+",Free,0,Everyone 10+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 655,GAME,5.0,3730,77M,"10,000+",Paid,0,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 656,COMMUNICATION,3.5,49902,9M,"10,000+",Paid,0,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 657,FINANCE,4.1,63695,100M,"1,000+",Free,0,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 658,PRODUCTIVITY,3.0,19180,54M,"100,000+",Paid,0,Mature 17+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 659,PRODUCTIVITY,4.1,59286,99M,"10,000+",Paid,0,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 660,SOCIAL,1.1,18521,74M,"1,000,000+",Free,0,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 661,ENTERTAINMENT,1.8,47446,37M,100+,Free,$8.99,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 662,FINANCE,4.1,33491,85M,100+,Free,$7.99,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 663,TRAVEL,2.9,44659,52M,"1,000,000+",Free,$9.99,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 664,FINANCE,1.3,56445,63M,"1,000+",Paid,0,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 665,COMMUNICATION,4.0,16875,97M,"1,000,000+",Paid,0,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 666,TRAVEL,4.9,73921,5M,"1,000+",Free,$9.99,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 667,ENTERTAINMENT,4.8,54175,26M,"10,000+",Paid,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 668,PRODUCTIVITY,2.4,13091,13M,"100,000+",Free,0,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 669,SOCIAL,1.7,41731,75M,100+,Paid,$10.99,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 670,SOCIAL,3.1,39450,73M,"1,000,000+",Paid,0,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 671,HEALTH_AND_FITNESS,4.9,1210,10M,"100,000+",Paid,$3.99,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 672,SOCIAL,4.8,37503,49M,100+,Free,0,Everyone,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 673,EDUCATION,2.9,77351,4M,"100,000+",Free,$3.99,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 674,COMMUNICATION,3.5,70242,84M,100+,Free,0,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 675,GAME,2.2,22433,6M,100+,Free,0,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 676,ENTERTAINMENT,3.6,19219,40M,"1,000+",Paid,0,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 677,SOCIAL,1.8,43079,78M,"1,000+",Free,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 678,PRODUCTIVITY,4.7,70675,45M,"100,000+",Paid,$8.99,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 679,PRODUCTIVITY,1.6,76610,71M,100+,Free,0,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 680,SOCIAL,1.5,95021,60M,"10,000+",Paid,0,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 681,ENTERTAINMENT,3.2,79172,19M,"1,000,000+",Paid,0,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 682,TRAVEL,2.0,78471,35M,100+,Paid,0,Teen,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 683,SOCIAL,1.9,63005,75M,"1,000+",Paid,$9.99,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 684,GAME,4.0,47355,64M,100+,Free,$6.99,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 685,GAME,3.4,27315,48M,"100,000+",Paid,$2.99,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 686,TRAVEL,1.7,27611,29M,"100,000+",Free,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 687,FINANCE,2.1,25665,65M,"1,000,000+",Free,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 688,COMMUNICATION,4.4,93476,18M,"10,000+",Free,$8.99,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 689,TRAVEL,3.9,76148,60M,"100,000+",Paid,0,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 690,EDUCATION,3.2,83910,18M,"100,000+",Paid,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 691,COMMUNICATION,1.2,37876,49M,"1,000+",Free,0,Everyone,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 692,ENTERTAINMENT,4.9,48454,85M,"1,000,000+",Free,0,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 693,HEALTH_AND_FITNESS,3.0,14478,99M,100+,Free,$4.99,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 694,COMMUNICATION,4.1,56187,68M,"10,000+",Paid,0,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 695,ENTERTAINMENT,2.4,56111,51M,100+,Paid,0,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 696,GAME,3.3,24132,96M,"100,000+",Paid,0,Everyone 10+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 697,EDUCATION,4.1,10653,67M,"100,000+",Free,$1.99,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 698,FINANCE,4.5,98048,37M,"1,000+",Free,0,Everyone,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 699,ENTERTAINMENT,3.1,41891,82M,"1,000,000+",Paid,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 700,PRODUCTIVITY,1.0,56856,47M,100+,Free,$10.99,Everyone 10+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 701,FINANCE,1.7,8359,67M,"100,000+",Paid,0,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 702,GAME,4.9,10758,24M,"1,000,000+",Paid,0,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 703,COMMUNICATION,4.3,4249,46M,100+,Free,$4.99,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 704,EDUCATION,3.8,62456,8M,"1,000,000+",Free,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 705,PRODUCTIVITY,1.7,16022,94M,"1,000+",Paid,0,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 706,GAME,3.1,75871,97M,"100,000+",Free,$5.99,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 707,ENTERTAINMENT,1.9,87235,14M,"10,000+",Paid,0,Everyone 10+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 708,ENTERTAINMENT,3.0,48596,20M,"100,000+",Paid,0,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 709,EDUCATION,4.6,60452,18M,"10,000+",Paid,$2.99,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 710,PRODUCTIVITY,1.8,19466,83M,"1,000,000+",Free,0,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 711,ENTERTAINMENT,1.2,53949,37M,100+,Free,$2.99,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 712,HEALTH_AND_FITNESS,2.1,47180,2M,"10,000+",Paid,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 713,SHOPPING,2.8,24974,44M,"100,000+",Paid,$4.99,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 714,HEALTH_AND_FITNESS,3.4,45918,61M,"100,000+",Free,0,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 715,ENTERTAINMENT,3.4,28298,31M,"10,000+",Free,0,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 716,TRAVEL,3.4,63207,92M,"100,000+",Paid,$4.99,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 717,ENTERTAINMENT,2.2,75466,20M,100+,Free,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 718,EDUCATION,2.5,91466,88M,"10,000+",Free,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 719,GAME,1.1,71696,57M,"1,000+",Free,0,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 720,EDUCATION,3.4,94663,90M,"1,000,000+",Free,$1.99,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 721,TRAVEL,3.7,86086,80M,"100,000+",Free,$6.99,Everyone,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 722,SOCIAL,2.6,9775,66M,"10,000+",Paid,0,Everyone 10+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 723,HEALTH_AND_FITNESS,4.6,8102,12M,"1,000,000+",Paid,$10.99,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 724,ENTERTAINMENT,2.9,1290,46M,"100,000+",Paid,0,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 725,ENTERTAINMENT,4.1,59948,42M,"1,000+",Paid,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 726,TRAVEL,3.5,57065,100M,"100,000+",Free,0,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 727,SOCIAL,3.3,36394,95M,"10,000+",Paid,$3.99,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 728,FINANCE,3.2,70459,48M,100+,Free,0,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 729,FINANCE,3.5,99519,35M,"1,000+",Paid,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 730,TRAVEL,3.3,27499,91M,"100,000+",Free,0,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 731,FINANCE,1.5,4111,37M,"10,000+",Free,0,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 732,FINANCE,3.7,77475,10M,"1,000+",Paid,$8.99,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 733,HEALTH_AND_FITNESS,3.6,46384,83M,"10,000+",Free,0,Everyone,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 734,SOCIAL,1.2,7666,7M,"1,000,000+",Paid,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 735,EDUCATION,3.7,25926,45M,"1,000,000+",Free,0,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 736,SHOPPING,1.9,83227,18M,"1,000+",Free,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 737,PRODUCTIVITY,3.5,80130,41M,"10,000+",Paid,$6.99,Everyone 10+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 738,PRODUCTIVITY,3.9,10618,95M,"1,000,000+",Free,$4.99,Everyone,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 739,EDUCATION,3.2,70362,39M,"100,000+",Free,0,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 740,GAME,4.0,28320,97M,"100,000+",Free,0,Mature 17+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 741,ENTERTAINMENT,3.1,22617,64M,"1,000,000+",Paid,0,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 742,PRODUCTIVITY,1.9,83656,46M,"1,000+",Paid,0,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 743,HEALTH_AND_FITNESS,4.8,34868,100M,100+,Paid,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 744,SHOPPING,4.1,39401,5M,100+,Paid,0,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 745,FINANCE,4.8,92814,72M,"1,000,000+",Free,0,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 746,GAME,1.8,45221,31M,100+,Paid,0,Everyone 10+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 747,SOCIAL,2.4,46089,47M,"100,000+",Paid,0,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 748,FINANCE,3.1,12663,59M,100+,Free,0,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 749,GAME,3.8,89982,58M,100+,Free,0,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 750,HEALTH_AND_FITNESS,4.1,4552,5M,100+,Paid,$9.99,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 751,FINANCE,1.4,85043,43M,"1,000+",Paid,$9.99,Everyone 10+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 752,ENTERTAINMENT,1.3,19636,65M,"1,000,000+",Paid,$7.99,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 753,ENTERTAINMENT,1.7,73795,49M,"10,000+",Free,$10.99,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 754,HEALTH_AND_FITNESS,2.7,50599,20M,"10,000+",Free,0,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 755,SHOPPING,1.2,76235,34M,100+,Free,0,Everyone,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 756,ENTERTAINMENT,2.6,12142,4M,"1,000+",Free,0,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 757,PRODUCTIVITY,2.4,51229,67M,100+,Free,$9.99,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 758,EDUCATION,2.5,32384,26M,"1,000+",Paid,$7.99,Mature 17+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 759,ENTERTAINMENT,2.6,25881,28M,"100,000+",Paid,$3.99,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 760,COMMUNICATION,1.1,3601,60M,"10,000+",Paid,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 761,PRODUCTIVITY,4.7,47111,67M,"1,000+",Free,0,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 762,GAME,1.6,52333,44M,"100,000+",Paid,$3.99,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 763,PRODUCTIVITY,1.1,98163,3M,"100,000+",Free,0,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 764,SOCIAL,3.5,45275,78M,"100,000+",Free,$10.99,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 765,HEALTH_AND_FITNESS,4.9,39472,49M,100+,Free,0,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 766,PRODUCTIVITY,4.2,98807,24M,"1,000+",Paid,$4.99,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 767,COMMUNICATION,3.6,37608,52M,"1,000+",Paid,$5.99,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 768,PRODUCTIVITY,2.5,53404,77M,"10,000+",Free,0,Everyone,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 769,EDUCATION,3.4,94531,16M,"1,000,000+",Free,$9.99,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 770,PRODUCTIVITY,3.7,17578,21M,"1,000,000+",Free,$4.99,Everyone 10+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 771,PRODUCTIVITY,2.9,47114,2M,"100,000+",Paid,0,Teen,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 772,TRAVEL,4.1,75029,82M,100+,Free,0,Mature 17+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 773,GAME,3.9,82990,24M,"1,000+",Free,$8.99,Mature 17+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 774,SHOPPING,1.9,36635,1M,"10,000+",Free,0,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 775,FINANCE,1.2,67519,40M,"1,000,000+",Free,0,Everyone 10+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 776,GAME,1.0,22355,55M,"1,000+",Free,0,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 777,HEALTH_AND_FITNESS,3.3,44301,24M,"1,000,000+",Free,0,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 778,COMMUNICATION,3.8,76192,8M,"1,000,000+",Free,$3.99,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 779,PRODUCTIVITY,4.3,81766,67M,"1,000+",Free,0,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 780,ENTERTAINMENT,4.1,24591,28M,100+,Paid,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 781,SHOPPING,4.3,48310,75M,"1,000+",Paid,0,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 782,HEALTH_AND_FITNESS,1.3,54040,98M,"10,000+",Free,0,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 783,ENTERTAINMENT,2.6,64829,27M,"100,000+",Free,$6.99,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 784,TRAVEL,4.9,99529,7M,"100,000+",Free,0,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 785,SOCIAL,2.0,68959,30M,"10,000+",Free,0,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 786,HEALTH_AND_FITNESS,1.3,45336,77M,"10,000+",Paid,0,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 787,GAME,4.6,37116,64M,100+,Paid,0,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 788,GAME,2.7,86517,32M,"1,000+",Free,0,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 789,EDUCATION,2.0,44467,93M,"10,000+",Free,0,Teen,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 790,EDUCATION,3.4,87952,14M,100+,Paid,0,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 791,ENTERTAINMENT,1.8,92988,13M,"10,000+",Free,0,Teen,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 792,EDUCATION,1.6,14972,31M,"1,000+",Paid,$8.99,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 793,HEALTH_AND_FITNESS,3.9,59320,82M,"10,000+",Paid,$7.99,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 794,EDUCATION,4.8,3377,65M,100+,Paid,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 795,COMMUNICATION,4.9,68944,90M,"100,000+",Free,0,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 796,HEALTH_AND_FITNESS,3.4,68246,94M,"1,000+",Paid,0,Everyone,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 797,SOCIAL,1.2,69138,21M,100+,Free,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 798,COMMUNICATION,4.6,268,1M,100+,Free,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 799,GAME,3.7,91100,62M,"100,000+",Paid,0,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 800,TRAVEL,4.0,61561,2M,"1,000,000+",Paid,$10.99,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 801,TRAVEL,5.0,50049,44M,"1,000+",Paid,$10.99,Teen,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 802,EDUCATION,1.9,9939,1M,"100,000+",Free,$1.99,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 803,PRODUCTIVITY,4.1,46427,16M,100+,Paid,$10.99,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 804,FINANCE,1.0,33266,97M,100+,Free,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 805,FINANCE,1.2,26461,74M,"1,000+",Free,$3.99,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 806,EDUCATION,4.3,75282,15M,"100,000+",Paid,0,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 807,SOCIAL,3.1,87020,67M,100+,Paid,0,Everyone 10+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 808,FINANCE,5.0,15102,89M,"10,000+",Paid,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 809,SOCIAL,4.7,23171,80M,100+,Paid,$1.99,Everyone,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 810,ENTERTAINMENT,4.9,51937,55M,100+,Free,0,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 811,FINANCE,4.8,604,20M,"10,000+",Paid,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 812,COMMUNICATION,4.9,14736,53M,100+,Free,$7.99,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 813,FINANCE,1.2,69049,97M,100+,Free,$8.99,Teen,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 814,TRAVEL,4.8,38139,29M,"10,000+",Free,$5.99,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 815,TRAVEL,1.5,30486,50M,"1,000+",Paid,0,Everyone 10+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 816,HEALTH_AND_FITNESS,1.6,6005,61M,100+,Paid,0,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 817,FINANCE,3.0,79606,16M,"1,000+",Paid,0,Everyone 10+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 818,COMMUNICATION,2.6,6906,68M,"1,000,000+",Paid,0,Teen,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 819,ENTERTAINMENT,1.9,37114,58M,100+,Free,$3.99,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 820,HEALTH_AND_FITNESS,4.7,85094,20M,"10,000+",Free,$10.99,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 821,HEALTH_AND_FITNESS,1.0,81566,85M,"1,000+",Paid,0,Teen,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 822,PRODUCTIVITY,2.3,69621,63M,100+,Paid,0,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 823,HEALTH_AND_FITNESS,3.9,18043,58M,100+,Paid,0,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 824,SOCIAL,2.6,20467,16M,100+,Paid,$2.99,Everyone,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 825,COMMUNICATION,2.7,46390,2M,"10,000+",Paid,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 826,EDUCATION,1.5,74730,95M,"10,000+",Paid,0,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 827,COMMUNICATION,4.6,47836,3M,"10,000+",Paid,0,Everyone 10+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 828,FINANCE,4.3,27538,9M,"100,000+",Free,0,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 829,SHOPPING,1.1,94968,40M,"1,000+",Free,0,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 830,FINANCE,4.7,14414,79M,"100,000+",Free,0,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 831,PRODUCTIVITY,1.0,18981,62M,"1,000,000+",Paid,0,Everyone,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 832,COMMUNICATION,1.9,62900,14M,"1,000+",Free,$5.99,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 833,TRAVEL,1.3,21376,46M,"10,000+",Paid,0,Mature 17+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 834,FINANCE,2.3,94296,89M,"1,000,000+",Paid,0,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 835,SHOPPING,4.3,38844,79M,100+,Paid,0,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 836,PRODUCTIVITY,2.6,42929,3M,"100,000+",Paid,0,Everyone 10+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 837,FINANCE,1.0,79367,71M,"100,000+",Free,$9.99,Everyone 10+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 838,SHOPPING,3.7,23921,50M,"1,000+",Free,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 839,HEALTH_AND_FITNESS,2.7,140,10M,"10,000+",Paid,0,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 840,COMMUNICATION,4.1,10622,34M,"10,000+",Free,0,Everyone 10+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 841,EDUCATION,3.9,40697,99M,"1,000,000+",Paid,$8.99,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 842,TRAVEL,4.6,50569,80M,"10,000+",Paid,0,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 843,SOCIAL,1.9,76264,27M,"1,000+",Paid,0,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 844,SOCIAL,4.7,63517,39M,"100,000+",Free,$8.99,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 845,COMMUNICATION,2.8,49480,62M,"10,000+",Paid,$10.99,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 846,COMMUNICATION,4.9,41081,67M,"100,000+",Free,$10.99,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 847,SOCIAL,3.7,24590,90M,"1,000,000+",Free,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 848,SHOPPING,2.2,37229,49M,"1,000,000+",Paid,$9.99,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 849,FINANCE,3.0,28419,78M,"1,000+",Paid,0,Everyone 10+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 850,HEALTH_AND_FITNESS,1.7,7721,65M,"10,000+",Paid,$4.99,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 851,SOCIAL,3.4,85906,1M,100+,Paid,0,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 852,TRAVEL,1.4,41106,18M,"100,000+",Free,0,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 853,EDUCATION,4.3,47760,88M,"100,000+",Free,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 854,ENTERTAINMENT,3.6,49941,69M,"10,000+",Free,$10.99,Mature 17+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 855,ENTERTAINMENT,2.0,77531,79M,"1,000,000+",Free,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 856,TRAVEL,4.4,75907,17M,"1,000+",Free,0,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 857,TRAVEL,2.9,4478,25M,"1,000,000+",Free,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 858,EDUCATION,1.0,50759,100M,"1,000,000+",Free,0,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 859,EDUCATION,2.8,29994,43M,100+,Paid,0,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 860,SHOPPING,4.4,51226,27M,"1,000+",Free,0,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 861,ENTERTAINMENT,2.2,14614,14M,"10,000+",Paid,0,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 862,PRODUCTIVITY,1.1,72001,43M,100+,Free,$4.99,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 863,ENTERTAINMENT,3.3,57441,71M,"100,000+",Free,0,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 864,FINANCE,3.7,57378,48M,100+,Paid,0,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 865,ENTERTAINMENT,3.8,91589,48M,"1,000,000+",Paid,0,Everyone 10+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 866,GAME,4.9,65793,90M,"1,000+",Paid,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 867,FINANCE,1.9,3436,77M,"1,000,000+",Paid,0,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 868,SOCIAL,3.4,92828,13M,"10,000+",Free,0,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 869,FINANCE,2.5,71578,7M,"10,000+",Paid,$9.99,Teen,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 870,COMMUNICATION,2.8,43216,34M,100+,Free,0,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 871,HEALTH_AND_FITNESS,2.3,99734,81M,"10,000+",Paid,0,Mature 17+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 872,SHOPPING,3.9,28576,77M,"100,000+",Free,$4.99,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 873,SOCIAL,4.3,98186,81M,100+,Free,$1.99,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 874,TRAVEL,1.5,51711,68M,"1,000,000+",Paid,$8.99,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 875,SHOPPING,2.1,34138,90M,"1,000,000+",Paid,0,Everyone,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 876,FINANCE,3.9,55009,81M,"100,000+",Free,0,Everyone 10+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 877,FINANCE,3.4,52233,34M,"100,000+",Paid,0,Everyone,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 878,SHOPPING,2.9,25002,2M,"100,000+",Free,0,Mature 17+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 879,SHOPPING,5.0,78642,71M,"100,000+",Paid,0,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 880,EDUCATION,1.1,92836,94M,"100,000+",Paid,0,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 881,FINANCE,5.0,79541,93M,100+,Paid,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 882,HEALTH_AND_FITNESS,3.6,18931,24M,100+,Paid,0,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 883,SHOPPING,4.4,71022,12M,"1,000+",Paid,$2.99,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 884,PRODUCTIVITY,3.6,41916,77M,"1,000,000+",Paid,0,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 885,GAME,2.9,21735,64M,"10,000+",Paid,$2.99,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 886,ENTERTAINMENT,4.7,1586,17M,"100,000+",Free,0,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 887,EDUCATION,3.7,89559,100M,100+,Free,$2.99,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 888,COMMUNICATION,2.9,80003,35M,"100,000+",Paid,0,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 889,EDUCATION,2.8,37183,97M,"1,000+",Paid,$3.99,Mature 17+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 890,COMMUNICATION,4.3,51406,97M,"1,000+",Free,$1.99,Everyone,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 891,SHOPPING,4.0,47029,58M,"10,000+",Free,0,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 892,GAME,4.5,854,64M,"10,000+",Free,$1.99,Mature 17+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 893,FINANCE,1.7,11774,67M,"100,000+",Paid,$2.99,Everyone 10+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 894,FINANCE,4.9,56280,44M,"10,000+",Paid,0,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 895,PRODUCTIVITY,2.1,76688,98M,"100,000+",Paid,$5.99,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 896,GAME,1.5,44418,15M,"10,000+",Paid,$3.99,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 897,TRAVEL,3.4,78746,95M,"1,000,000+",Paid,$7.99,Teen,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 898,TRAVEL,3.5,75037,12M,100+,Free,0,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 899,COMMUNICATION,1.8,16571,56M,100+,Paid,0,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 900,GAME,4.2,21781,40M,"1,000,000+",Paid,0,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 901,HEALTH_AND_FITNESS,4.7,72859,25M,"100,000+",Free,$2.99,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 902,TRAVEL,2.7,53022,29M,"1,000,000+",Free,0,Mature 17+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 903,PRODUCTIVITY,1.5,63350,10M,"1,000+",Paid,$7.99,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 904,SHOPPING,3.3,47572,60M,"1,000+",Free,$2.99,Teen,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 905,GAME,1.8,99266,1M,"1,000+",Paid,$3.99,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 906,FINANCE,4.7,93268,21M,"10,000+",Free,0,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 907,PRODUCTIVITY,4.5,54198,74M,"1,000,000+",Paid,0,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 908,ENTERTAINMENT,3.7,65661,67M,"1,000+",Paid,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 909,GAME,1.5,20226,57M,"1,000,000+",Free,0,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 910,TRAVEL,3.0,91512,16M,"1,000,000+",Paid,$2.99,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 911,SHOPPING,4.3,36829,73M,"1,000,000+",Free,0,Everyone 10+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 912,HEALTH_AND_FITNESS,3.6,44923,34M,"1,000+",Paid,$3.99,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 913,TRAVEL,1.7,55560,72M,100+,Free,$5.99,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 914,GAME,3.8,31552,96M,"1,000+",Free,$7.99,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 915,PRODUCTIVITY,1.1,35057,79M,100+,Free,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 916,SHOPPING,4.6,89863,70M,100+,Paid,$2.99,Teen,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 917,PRODUCTIVITY,3.2,43333,26M,"10,000+",Paid,0,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 918,SOCIAL,3.1,53120,33M,"1,000,000+",Paid,$5.99,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 919,HEALTH_AND_FITNESS,4.2,32961,95M,"1,000+",Free,0,Teen,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 920,GAME,1.2,18703,76M,"100,000+",Free,0,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 921,FINANCE,2.8,91916,58M,100+,Paid,0,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 922,COMMUNICATION,1.2,2310,16M,"100,000+",Free,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 923,EDUCATION,4.8,66215,78M,100+,Paid,$10.99,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 924,SOCIAL,2.6,97445,98M,"100,000+",Free,0,Mature 17+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 925,GAME,3.5,14544,9M,"10,000+",Paid,$8.99,Teen,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 926,EDUCATION,2.3,26272,47M,"1,000+",Free,$4.99,Everyone,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 927,SOCIAL,1.8,27550,17M,100+,Free,0,Everyone 10+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 928,FINANCE,2.3,85051,72M,"1,000+",Free,0,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 929,PRODUCTIVITY,2.4,18978,6M,"1,000+",Free,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 930,GAME,3.3,28393,98M,"10,000+",Free,0,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 931,EDUCATION,2.4,3355,94M,100+,Free,0,Mature 17+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 932,PRODUCTIVITY,2.4,32228,48M,"10,000+",Free,0,Everyone,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 933,COMMUNICATION,3.7,34490,1M,100+,Paid,0,Everyone,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 934,PRODUCTIVITY,3.9,4376,100M,"10,000+",Free,$8.99,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 935,COMMUNICATION,1.1,64930,61M,"1,000+",Paid,0,Everyone,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 936,FINANCE,1.5,71659,90M,"100,000+",Paid,$10.99,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 937,FINANCE,3.0,18349,80M,"10,000+",Paid,$9.99,Everyone,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 938,FINANCE,1.8,25998,12M,100+,Free,0,Teen,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 939,ENTERTAINMENT,4.2,3536,34M,"1,000,000+",Free,$9.99,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 940,PRODUCTIVITY,1.2,80962,70M,"100,000+",Paid,0,Mature 17+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 941,ENTERTAINMENT,1.6,56094,23M,"10,000+",Paid,0,Mature 17+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 942,SOCIAL,1.3,66624,51M,100+,Free,0,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 943,ENTERTAINMENT,2.1,39452,12M,"10,000+",Free,0,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 944,GAME,3.2,10319,13M,"1,000,000+",Paid,0,Everyone 10+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 945,ENTERTAINMENT,1.1,95388,25M,100+,Free,$9.99,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 946,GAME,2.5,77698,83M,100+,Free,0,Everyone 10+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 947,HEALTH_AND_FITNESS,3.3,94740,30M,"100,000+",Free,0,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 948,EDUCATION,3.2,16111,70M,"10,000+",Paid,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 949,EDUCATION,3.5,63851,11M,100+,Free,$3.99,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 950,HEALTH_AND_FITNESS,3.4,40125,1M,"1,000,000+",Paid,0,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 951,PRODUCTIVITY,4.1,61024,83M,"100,000+",Free,$2.99,Teen,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 952,ENTERTAINMENT,3.6,38537,6M,"10,000+",Paid,$4.99,Teen,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 953,SOCIAL,3.1,20472,74M,"100,000+",Paid,0,Mature 17+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 954,SHOPPING,2.9,91851,66M,"10,000+",Paid,0,Everyone 10+,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 955,FINANCE,3.6,63948,36M,100+,Free,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 956,TRAVEL,3.7,85726,95M,"1,000+",Paid,$4.99,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 957,SHOPPING,1.9,18449,73M,"100,000+",Paid,0,Everyone 10+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 958,FINANCE,4.4,17310,13M,"100,000+",Free,$3.99,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 959,PRODUCTIVITY,1.0,88551,18M,"100,000+",Free,0,Everyone 10+,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 960,HEALTH_AND_FITNESS,3.2,76601,59M,"10,000+",Free,$6.99,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 961,COMMUNICATION,3.3,92335,25M,"1,000,000+",Free,0,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 962,TRAVEL,4.3,27158,36M,"1,000,000+",Free,$2.99,Everyone 10+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 963,SOCIAL,3.0,22619,56M,100+,Free,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 964,GAME,1.3,67391,71M,"100,000+",Paid,$4.99,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 965,GAME,3.3,78005,21M,"1,000+",Free,$5.99,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 966,TRAVEL,3.9,37775,66M,100+,Paid,$5.99,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 967,SHOPPING,3.1,93549,32M,100+,Free,0,Everyone 10+,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 968,GAME,1.9,22340,100M,"100,000+",Paid,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 969,SOCIAL,4.3,76929,51M,"10,000+",Paid,0,Everyone,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 970,GAME,3.2,7908,96M,"100,000+",Paid,0,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 971,COMMUNICATION,4.9,32319,31M,"10,000+",Free,$7.99,Everyone,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 972,SHOPPING,2.6,41469,23M,"100,000+",Paid,0,Everyone 10+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 973,EDUCATION,3.5,58068,78M,100+,Paid,0,Teen,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 974,TRAVEL,3.4,54812,14M,"100,000+",Free,0,Everyone 10+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 975,FINANCE,2.0,26730,39M,100+,Free,$3.99,Teen,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 976,EDUCATION,2.4,19189,32M,100+,Free,0,Teen,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 977,SOCIAL,4.0,47775,71M,"10,000+",Paid,0,Everyone 10+,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 978,TRAVEL,4.1,28409,2M,"100,000+",Paid,$9.99,Teen,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 979,FINANCE,3.9,1287,75M,100+,Paid,0,Mature 17+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 980,COMMUNICATION,2.0,32153,21M,100+,Paid,$8.99,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 981,SHOPPING,1.2,35793,36M,100+,Paid,0,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 982,ENTERTAINMENT,2.6,87186,50M,"10,000+",Paid,$1.99,Everyone 10+,SHOPPING,"July 1, 2023",1.0,4.1 and up
+Sample App 983,PRODUCTIVITY,2.8,99943,27M,"10,000+",Paid,0,Everyone,GAME,"July 1, 2023",1.0,4.1 and up
+Sample App 984,SOCIAL,4.8,97191,37M,"1,000,000+",Paid,0,Mature 17+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 985,FINANCE,2.5,16917,11M,"1,000,000+",Paid,$8.99,Teen,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 986,COMMUNICATION,2.1,66669,40M,"1,000,000+",Paid,0,Teen,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 987,GAME,3.3,67972,59M,"1,000,000+",Paid,0,Mature 17+,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 988,SOCIAL,3.5,17108,22M,"100,000+",Free,0,Teen,EDUCATION,"July 1, 2023",1.0,4.1 and up
+Sample App 989,GAME,4.8,64416,19M,"10,000+",Paid,$10.99,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 990,HEALTH_AND_FITNESS,1.5,53982,23M,100+,Paid,0,Everyone,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 991,HEALTH_AND_FITNESS,1.1,52699,57M,"100,000+",Paid,$9.99,Everyone,SOCIAL,"July 1, 2023",1.0,4.1 and up
+Sample App 992,ENTERTAINMENT,1.8,88460,26M,"1,000,000+",Paid,0,Teen,PRODUCTIVITY,"July 1, 2023",1.0,4.1 and up
+Sample App 993,FINANCE,4.5,44002,55M,"1,000+",Free,$10.99,Everyone 10+,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
+Sample App 994,HEALTH_AND_FITNESS,2.4,28466,34M,"1,000,000+",Free,$2.99,Everyone,TRAVEL,"July 1, 2023",1.0,4.1 and up
+Sample App 995,PRODUCTIVITY,4.3,62098,5M,100+,Free,0,Everyone 10+,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 996,PRODUCTIVITY,3.4,23091,69M,"1,000,000+",Paid,0,Everyone,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 997,SOCIAL,4.7,59714,8M,"100,000+",Free,$9.99,Everyone 10+,FINANCE,"July 1, 2023",1.0,4.1 and up
+Sample App 998,COMMUNICATION,4.9,85054,20M,"1,000+",Paid,$3.99,Mature 17+,ENTERTAINMENT,"July 1, 2023",1.0,4.1 and up
+Sample App 999,SHOPPING,4.1,29850,78M,"10,000+",Free,0,Everyone,COMMUNICATION,"July 1, 2023",1.0,4.1 and up
+Sample App 1000,FINANCE,4.9,59463,39M,100+,Paid,0,Everyone,HEALTH_AND_FITNESS,"July 1, 2023",1.0,4.1 and up
