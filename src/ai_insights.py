@@ -88,24 +88,43 @@ class AIInsightsGenerator:
         free_pct_str = f"{free_pct:.1f}%" if free_pct is not None else "N/A"
         
         prompt = f"""
-        Analyze the following mobile app market data and provide a comprehensive market overview:
+        You are a senior market intelligence analyst for a leading marketing company. Analyze the mobile app market data below and provide strategic insights.
         
-        Data Summary:
-        - Total apps analyzed: {data_summary['total_apps']}
-        - Data sources: {data_summary['data_sources']}
-        - Top categories: {data_summary['category_distribution']}
-        - Average rating: {avg_rating_str}
-        - Free apps percentage: {free_pct_str}
+        CONTEXT:
+        Dataset: {data_summary['total_apps']} mobile applications
+        Sources: {data_summary['data_sources']}
+        Market Coverage: {list(data_summary['category_distribution'].keys())[:5]} (top categories)
+        Quality Baseline: {avg_rating_str}/5.0 average rating
+        Business Model Split: {free_pct_str} free apps
         
-        Provide insights in JSON format with the following structure:
+        ANALYSIS FRAMEWORK:
+        1. Market Size & Opportunity Assessment
+        2. Competitive Landscape Analysis  
+        3. User Behavior & Preference Trends
+        4. Strategic Recommendations
+        
+        EXAMPLE OUTPUT FORMAT:
         {{
-            "key_findings": ["finding1", "finding2", "finding3"],
-            "market_size_assessment": "assessment",
-            "dominant_trends": ["trend1", "trend2"],
-            "market_health_indicators": "indicators"
+            "key_findings": [
+                "Market shows high saturation in [category] with [X] apps competing",
+                "Quality gap identified: average rating of [X] suggests improvement opportunities",
+                "Monetization trends: [X]% free apps indicate strong freemium adoption"
+            ],
+            "market_size_assessment": "Detailed assessment with specific numbers and growth indicators",
+            "dominant_trends": [
+                "Category trend with supporting data",
+                "User behavior pattern with implications"
+            ],
+            "market_health_indicators": "Overall market health with specific metrics and outlook"
         }}
         
-        Focus on actionable insights for a marketing company.
+        REQUIREMENTS:
+        - Use specific data points from the analysis
+        - Provide actionable insights for marketing strategy
+        - Include confidence indicators where relevant
+        - Focus on business implications and opportunities
+        
+        Analyze the data and provide insights in the exact JSON format above:
         """
         
         return self._query_gemini(prompt, "market_overview")
@@ -266,29 +285,59 @@ class AIInsightsGenerator:
         free_pct_str = f"{free_pct:.1f}" if free_pct is not None else "N/A"
         
         prompt = f"""
-        Based on the comprehensive market analysis, provide strategic recommendations:
+        You are a strategic consultant providing recommendations to a marketing technology company based on comprehensive market analysis.
         
-        Market Intelligence Summary:
-        - Market size: {data_summary['total_apps']} apps
-        - Key categories: {list(data_summary['category_distribution'].keys())[:5]}
-        - Quality baseline: {avg_rating_str} avg rating
-        - Business model: {free_pct_str}% freemium adoption
+        MARKET INTELLIGENCE SUMMARY:
+        Total Market Size: {data_summary['total_apps']} applications analyzed
+        Key Categories: {list(data_summary['category_distribution'].keys())[:5]}
+        Market Quality: {avg_rating_str}/5.0 average rating
+        Business Models: {free_pct_str}% freemium adoption
         
-        Provide recommendations in JSON format:
+        STRATEGIC CONTEXT:
+        - Company: Marketing technology firm seeking growth opportunities
+        - Objective: Identify actionable strategies for market entry/expansion
+        - Timeline: Need both immediate wins and long-term positioning
+        
+        EXAMPLE RECOMMENDATION FORMAT:
         {{
             "product_strategy": [
-                {{"recommendation": "description", "priority": "high/medium/low", "timeline": "short/medium/long-term"}}
+                {{
+                    "recommendation": "Develop AI-powered app analytics tool targeting underserved categories",
+                    "priority": "high",
+                    "timeline": "short-term",
+                    "rationale": "Market gap identified in [specific area] with [supporting data]"
+                }}
             ],
             "marketing_strategy": [
-                {{"recommendation": "description", "priority": "high/medium/low", "timeline": "short/medium/long-term"}}
+                {{
+                    "recommendation": "Focus marketing efforts on high-growth categories with quality gaps",
+                    "priority": "medium", 
+                    "timeline": "medium-term",
+                    "rationale": "[Category] shows [X]% growth but [Y] average rating indicates opportunity"
+                }}
             ],
             "competitive_strategy": [
-                {{"recommendation": "description", "priority": "high/medium/low", "timeline": "short/medium/long-term"}}
+                {{
+                    "recommendation": "Differentiate through superior user experience in saturated markets",
+                    "priority": "high",
+                    "timeline": "long-term",
+                    "rationale": "Market leaders have [specific weakness] creating differentiation opportunity"
+                }}
             ],
-            "investment_priorities": ["priority1", "priority2", "priority3"]
+            "investment_priorities": [
+                "AI/ML capabilities for personalization",
+                "User experience optimization tools", 
+                "Market analytics platform development"
+            ]
         }}
         
-        Focus on practical, implementable strategies.
+        REQUIREMENTS:
+        - Base all recommendations on specific data insights
+        - Provide clear rationale for each recommendation
+        - Ensure recommendations are implementable and specific
+        - Prioritize based on market opportunity size and feasibility
+        
+        Provide strategic recommendations in the exact JSON format above:
         """
         
         return self._query_gemini(prompt, "recommendations")

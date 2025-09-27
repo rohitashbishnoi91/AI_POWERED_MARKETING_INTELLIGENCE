@@ -169,27 +169,52 @@ class QueryInterface:
         
         st.write(f"Showing {len(filtered_data)} apps")
         
-        # Charts
+        # Charts with error handling
         col1, col2 = st.columns(2)
         
         with col1:
-            if 'category' in filtered_data.columns:
-                cat_counts = filtered_data['category'].value_counts().head(10)
-                fig = px.bar(x=cat_counts.values, y=cat_counts.index, orientation='h', 
-                           title="Top 10 Categories")
-                st.plotly_chart(fig, use_container_width=True)
+            try:
+                if 'category' in filtered_data.columns and len(filtered_data) > 0:
+                    cat_counts = filtered_data['category'].value_counts().head(10)
+                    if len(cat_counts) > 0:
+                        fig = px.bar(x=cat_counts.values, y=cat_counts.index, orientation='h', 
+                                   title="Top 10 Categories")
+                        st.plotly_chart(fig, use_container_width=True)
+                    else:
+                        st.info("No category data available for current filters")
+                else:
+                    st.info("Category data not available")
+            except Exception as e:
+                st.error(f"Error creating category chart: {str(e)}")
+                logger.error(f"Category chart error: {e}")
         
         with col2:
-            if 'rating' in filtered_data.columns:
-                fig = px.histogram(filtered_data, x='rating', title="Rating Distribution", 
-                                 nbins=20)
-                st.plotly_chart(fig, use_container_width=True)
+            try:
+                if 'rating' in filtered_data.columns and len(filtered_data) > 0:
+                    ratings = filtered_data['rating'].dropna()
+                    if len(ratings) > 0:
+                        fig = px.histogram(ratings, title="Rating Distribution", nbins=20)
+                        st.plotly_chart(fig, use_container_width=True)
+                    else:
+                        st.info("No rating data available for current filters")
+                else:
+                    st.info("Rating data not available")
+            except Exception as e:
+                st.error(f"Error creating rating chart: {str(e)}")
+                logger.error(f"Rating chart error: {e}")
         
-        # Data table
+        # Data table with error handling
         st.subheader("Data Table")
-        display_columns = [col for col in ['app_name', 'category', 'rating', 'review_count', 'price_usd', 'is_free'] 
-                          if col in filtered_data.columns]
-        st.dataframe(filtered_data[display_columns].head(100), use_container_width=True)
+        try:
+            display_columns = [col for col in ['app_name', 'category', 'rating', 'review_count', 'price_usd', 'is_free'] 
+                              if col in filtered_data.columns]
+            if display_columns and len(filtered_data) > 0:
+                st.dataframe(filtered_data[display_columns].head(100), use_container_width=True)
+            else:
+                st.info("No data available to display")
+        except Exception as e:
+            st.error(f"Error displaying data table: {str(e)}")
+            logger.error(f"Data table error: {e}")
     
     def _show_ai_insights(self):
         """Display AI-generated insights"""

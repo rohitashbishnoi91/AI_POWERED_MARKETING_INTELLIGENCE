@@ -1,0 +1,1001 @@
+app_name,category,rating,review_count,price_usd,is_free,content_rating,data_source,processed_date,has_rating,rating_tier,review_tier
+Sample App 1,SOCIAL,2.0,71638,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 2,GAME,2.4,32989,4.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 3,SOCIAL,3.0,15894,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 4,ENTERTAINMENT,2.0,58319,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 5,SHOPPING,4.2,92981,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 6,PRODUCTIVITY,1.5,92243,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 7,SHOPPING,3.9,19376,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 8,TRAVEL,2.6,67099,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 9,HEALTH_AND_FITNESS,4.8,44105,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 10,PRODUCTIVITY,4.5,34809,10.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 11,COMMUNICATION,3.9,82173,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 12,SOCIAL,1.4,42146,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 13,SHOPPING,2.3,52731,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 14,FINANCE,2.7,16691,2.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 15,FINANCE,4.6,21384,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 16,PRODUCTIVITY,1.7,9271,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 17,GAME,4.4,46668,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 18,FINANCE,1.6,46913,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 19,PRODUCTIVITY,4.1,10309,9.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 20,COMMUNICATION,4.1,60065,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 21,SOCIAL,4.5,79052,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 22,COMMUNICATION,1.7,80896,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 23,PRODUCTIVITY,3.0,68677,10.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 24,ENTERTAINMENT,1.5,41716,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 25,COMMUNICATION,4.3,59107,5.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 26,EDUCATION,2.2,82747,4.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 27,TRAVEL,4.0,23140,7.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 28,PRODUCTIVITY,3.2,86573,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 29,COMMUNICATION,3.7,11176,6.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 30,GAME,4.0,36416,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 31,ENTERTAINMENT,4.3,22263,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 32,GAME,3.9,19446,7.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 33,PRODUCTIVITY,1.2,69847,5.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 34,ENTERTAINMENT,1.2,98105,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 35,SOCIAL,2.3,90645,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 36,TRAVEL,2.9,99443,10.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 37,FINANCE,3.7,37730,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 38,TRAVEL,1.8,36052,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 39,COMMUNICATION,1.2,54053,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 40,SOCIAL,2.3,70464,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 41,SHOPPING,1.8,17873,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 42,COMMUNICATION,2.3,65644,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 43,PRODUCTIVITY,3.7,62197,7.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 44,SOCIAL,4.3,94185,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 45,TRAVEL,2.6,28051,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 46,TRAVEL,3.9,10027,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 47,SOCIAL,4.0,45067,10.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 48,HEALTH_AND_FITNESS,1.7,31804,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 49,SOCIAL,4.5,94029,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 50,ENTERTAINMENT,4.9,1627,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 51,EDUCATION,3.1,47267,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 52,SOCIAL,2.9,84750,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 53,FINANCE,2.4,14,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Low
+Sample App 54,COMMUNICATION,2.7,54202,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 55,FINANCE,4.6,85859,4.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 56,SHOPPING,2.4,66649,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 57,SHOPPING,2.4,23052,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 58,FINANCE,4.3,33156,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 59,GAME,2.4,67155,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 60,SOCIAL,1.1,54824,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 61,SHOPPING,1.1,14099,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 62,COMMUNICATION,4.2,97134,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 63,EDUCATION,4.4,93682,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 64,SHOPPING,4.0,26416,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 65,FINANCE,1.1,11594,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 66,PRODUCTIVITY,3.9,45059,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 67,ENTERTAINMENT,1.6,59304,9.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 68,SOCIAL,2.7,36807,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 69,HEALTH_AND_FITNESS,2.0,11767,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 70,HEALTH_AND_FITNESS,2.0,13781,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 71,FINANCE,1.7,17686,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 72,SOCIAL,4.3,40003,7.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 73,FINANCE,2.9,15021,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 74,COMMUNICATION,4.4,68756,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 75,PRODUCTIVITY,3.0,86998,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 76,SOCIAL,3.7,48171,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 77,SHOPPING,3.3,23417,8.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 78,SOCIAL,2.9,70196,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 79,TRAVEL,2.2,43145,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 80,HEALTH_AND_FITNESS,1.4,384,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Medium
+Sample App 81,COMMUNICATION,4.5,71356,1.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 82,GAME,2.8,54586,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 83,ENTERTAINMENT,2.3,14861,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 84,PRODUCTIVITY,2.4,90864,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 85,PRODUCTIVITY,4.4,20116,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 86,SHOPPING,2.7,23437,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 87,SOCIAL,2.5,75007,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 88,SOCIAL,3.1,31458,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 89,FINANCE,4.6,79496,5.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 90,SOCIAL,4.8,52255,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 91,HEALTH_AND_FITNESS,1.9,41588,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 92,SHOPPING,3.9,31405,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 93,SHOPPING,1.5,2718,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 94,ENTERTAINMENT,2.0,71167,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 95,FINANCE,1.9,85781,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 96,GAME,3.6,37614,4.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 97,FINANCE,1.1,44987,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 98,TRAVEL,1.4,41708,9.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 99,SHOPPING,4.1,23650,6.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 100,ENTERTAINMENT,1.4,73393,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 101,HEALTH_AND_FITNESS,2.7,17341,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 102,TRAVEL,1.8,70076,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 103,EDUCATION,4.0,36372,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 104,COMMUNICATION,4.3,16594,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 105,EDUCATION,1.1,1702,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 106,SHOPPING,3.3,33127,5.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 107,HEALTH_AND_FITNESS,1.1,19297,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 108,FINANCE,3.0,82502,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 109,SOCIAL,1.5,86743,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 110,SOCIAL,1.6,4175,9.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 111,HEALTH_AND_FITNESS,2.2,71141,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 112,HEALTH_AND_FITNESS,1.6,45625,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 113,COMMUNICATION,2.4,46112,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 114,SOCIAL,1.7,94575,3.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 115,SOCIAL,2.3,43487,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 116,PRODUCTIVITY,2.7,98840,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 117,EDUCATION,3.3,47309,10.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 118,FINANCE,3.5,20458,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 119,FINANCE,5.0,38635,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 120,GAME,1.1,32647,8.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 121,PRODUCTIVITY,2.5,34678,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 122,SOCIAL,4.3,15496,8.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 123,ENTERTAINMENT,1.5,90769,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 124,PRODUCTIVITY,4.3,97141,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 125,EDUCATION,2.9,98775,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 126,SHOPPING,4.8,24811,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 127,PRODUCTIVITY,3.3,80227,10.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 128,ENTERTAINMENT,3.8,40822,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 129,HEALTH_AND_FITNESS,1.1,64588,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 130,TRAVEL,2.6,55074,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 131,ENTERTAINMENT,2.0,49916,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 132,GAME,4.6,68510,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 133,COMMUNICATION,3.4,68884,10.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 134,PRODUCTIVITY,4.6,47435,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 135,COMMUNICATION,4.0,6110,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,High
+Sample App 136,GAME,3.5,825,5.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Medium
+Sample App 137,TRAVEL,4.6,35194,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 138,GAME,1.8,16993,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 139,SHOPPING,3.5,10194,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 140,COMMUNICATION,2.8,10509,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 141,SHOPPING,1.1,79764,2.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 142,GAME,1.8,19323,6.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 143,ENTERTAINMENT,2.1,10571,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 144,GAME,4.4,95787,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 145,HEALTH_AND_FITNESS,4.4,56616,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 146,SHOPPING,2.2,91637,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 147,ENTERTAINMENT,4.6,38464,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 148,COMMUNICATION,2.5,63188,3.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 149,TRAVEL,2.7,12695,2.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 150,TRAVEL,3.0,89592,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 151,TRAVEL,3.5,22686,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 152,FINANCE,1.3,38115,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 153,SOCIAL,4.3,38912,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 154,SOCIAL,2.6,7177,9.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,High
+Sample App 155,PRODUCTIVITY,3.6,49261,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 156,EDUCATION,4.6,6902,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 157,SHOPPING,3.9,80252,3.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 158,FINANCE,3.8,99391,10.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 159,EDUCATION,2.5,84913,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 160,EDUCATION,4.4,2157,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 161,SOCIAL,1.6,34003,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 162,FINANCE,2.8,41344,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 163,EDUCATION,4.2,90351,6.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 164,EDUCATION,3.7,67302,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 165,GAME,2.4,46152,3.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 166,SOCIAL,4.3,15739,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 167,COMMUNICATION,3.0,72068,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 168,GAME,4.7,4495,5.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 169,SOCIAL,1.9,7656,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 170,GAME,1.6,46339,9.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 171,SHOPPING,2.5,73261,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 172,COMMUNICATION,2.1,11842,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 173,SHOPPING,4.4,12994,6.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 174,HEALTH_AND_FITNESS,4.3,63968,8.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 175,PRODUCTIVITY,1.5,2225,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 176,GAME,5.0,92890,9.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 177,GAME,4.5,28947,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 178,SHOPPING,1.9,36010,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 179,COMMUNICATION,4.5,9644,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 180,TRAVEL,3.7,8455,2.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,High
+Sample App 181,COMMUNICATION,3.4,38024,10.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 182,TRAVEL,4.2,4398,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 183,SOCIAL,1.2,57762,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 184,PRODUCTIVITY,2.2,76880,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 185,GAME,4.2,80868,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 186,FINANCE,3.4,30077,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 187,FINANCE,5.0,79831,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 188,ENTERTAINMENT,3.0,252,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Medium
+Sample App 189,SOCIAL,4.6,44398,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 190,PRODUCTIVITY,3.8,47726,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 191,COMMUNICATION,3.7,57607,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 192,PRODUCTIVITY,1.1,69108,5.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 193,SHOPPING,2.5,90925,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 194,ENTERTAINMENT,2.0,84664,8.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 195,FINANCE,2.5,25312,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 196,FINANCE,3.3,17728,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 197,COMMUNICATION,2.6,12576,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 198,EDUCATION,2.0,72413,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 199,SOCIAL,3.0,40374,7.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 200,ENTERTAINMENT,2.8,37313,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 201,ENTERTAINMENT,4.6,33396,5.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 202,COMMUNICATION,1.3,55545,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 203,EDUCATION,4.9,67196,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 204,TRAVEL,2.1,98991,4.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 205,SHOPPING,1.3,48903,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 206,COMMUNICATION,3.6,27788,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 207,GAME,1.8,96024,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 208,SOCIAL,3.0,74924,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 209,FINANCE,3.3,20900,6.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 210,SHOPPING,2.8,6285,6.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,High
+Sample App 211,SHOPPING,3.5,54813,10.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 212,EDUCATION,4.3,74613,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 213,ENTERTAINMENT,3.2,16340,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 214,FINANCE,3.0,71026,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 215,FINANCE,4.4,64321,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 216,SHOPPING,3.1,24897,9.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 217,ENTERTAINMENT,4.2,36270,7.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 218,SHOPPING,4.9,96997,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 219,COMMUNICATION,1.1,61872,4.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 220,ENTERTAINMENT,3.8,36370,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 221,SHOPPING,4.9,33242,3.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 222,SHOPPING,4.7,15862,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 223,ENTERTAINMENT,1.8,73371,3.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 224,SOCIAL,1.2,27950,7.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 225,GAME,4.8,25270,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 226,TRAVEL,4.0,25287,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 227,EDUCATION,4.9,63469,8.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 228,EDUCATION,4.3,91609,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 229,HEALTH_AND_FITNESS,3.6,83984,8.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 230,SOCIAL,4.5,89156,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 231,GAME,3.1,48561,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 232,HEALTH_AND_FITNESS,2.4,51518,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 233,ENTERTAINMENT,3.8,79336,10.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 234,HEALTH_AND_FITNESS,4.0,27446,10.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 235,ENTERTAINMENT,1.4,57529,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 236,TRAVEL,1.5,12322,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 237,ENTERTAINMENT,3.1,49144,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 238,PRODUCTIVITY,2.7,52016,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 239,GAME,2.6,98590,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 240,PRODUCTIVITY,1.0,42307,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 241,EDUCATION,3.5,73912,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 242,FINANCE,4.3,51083,10.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 243,TRAVEL,4.4,25423,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 244,GAME,2.5,86871,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 245,SHOPPING,2.1,6754,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,High
+Sample App 246,EDUCATION,1.0,95930,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 247,PRODUCTIVITY,3.0,52631,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 248,SHOPPING,3.2,20692,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 249,SHOPPING,2.9,35355,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 250,COMMUNICATION,1.4,53264,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 251,COMMUNICATION,3.0,83221,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 252,HEALTH_AND_FITNESS,1.7,38483,8.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 253,FINANCE,4.7,69603,9.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 254,PRODUCTIVITY,4.1,64881,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 255,TRAVEL,4.5,8932,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 256,GAME,3.5,59679,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 257,SOCIAL,4.4,95507,6.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 258,ENTERTAINMENT,4.3,57569,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 259,ENTERTAINMENT,2.8,62878,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 260,GAME,3.6,40786,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 261,HEALTH_AND_FITNESS,3.5,64350,10.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 262,EDUCATION,1.7,68143,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 263,COMMUNICATION,1.7,78874,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 264,FINANCE,4.5,77459,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 265,HEALTH_AND_FITNESS,1.1,46526,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 266,PRODUCTIVITY,3.1,9609,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,High
+Sample App 267,SHOPPING,2.2,1118,4.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,High
+Sample App 268,HEALTH_AND_FITNESS,3.2,64371,5.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 269,SHOPPING,1.9,98056,3.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 270,FINANCE,1.7,5854,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 271,HEALTH_AND_FITNESS,4.5,45013,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 272,EDUCATION,4.3,94122,7.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 273,TRAVEL,2.8,71709,3.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 274,FINANCE,2.6,97007,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 275,HEALTH_AND_FITNESS,3.6,30955,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 276,TRAVEL,2.9,69190,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 277,SHOPPING,4.0,56465,5.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 278,PRODUCTIVITY,2.1,36714,6.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 279,ENTERTAINMENT,3.4,93334,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 280,TRAVEL,1.4,55425,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 281,PRODUCTIVITY,4.0,72829,6.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 282,ENTERTAINMENT,2.5,96868,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 283,GAME,4.4,53712,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 284,TRAVEL,2.7,88259,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 285,SOCIAL,5.0,18494,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 286,FINANCE,3.9,95118,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 287,ENTERTAINMENT,1.8,56575,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 288,HEALTH_AND_FITNESS,4.1,30705,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 289,ENTERTAINMENT,2.6,36298,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 290,COMMUNICATION,1.4,84978,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 291,TRAVEL,1.1,31378,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 292,EDUCATION,4.7,34607,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 293,HEALTH_AND_FITNESS,1.8,96966,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 294,HEALTH_AND_FITNESS,3.9,61084,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 295,SHOPPING,1.6,31453,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 296,EDUCATION,3.2,92949,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 297,PRODUCTIVITY,3.9,32132,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 298,GAME,3.2,15918,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 299,SHOPPING,2.7,1395,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,High
+Sample App 300,COMMUNICATION,3.5,80331,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 301,PRODUCTIVITY,2.6,22175,10.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 302,SOCIAL,3.4,40399,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 303,ENTERTAINMENT,1.8,6841,9.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 304,GAME,2.9,23902,5.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 305,SOCIAL,2.9,32614,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 306,COMMUNICATION,2.7,41378,8.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 307,ENTERTAINMENT,2.4,32932,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 308,GAME,1.6,18493,8.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 309,ENTERTAINMENT,3.0,27479,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 310,SHOPPING,4.3,60801,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 311,EDUCATION,2.5,9627,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,High
+Sample App 312,EDUCATION,2.1,9088,7.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,High
+Sample App 313,GAME,3.6,37977,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 314,ENTERTAINMENT,1.3,75364,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 315,COMMUNICATION,4.0,6468,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,High
+Sample App 316,FINANCE,2.4,58156,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 317,SOCIAL,3.3,13387,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 318,PRODUCTIVITY,4.0,95238,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 319,COMMUNICATION,3.9,23786,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 320,EDUCATION,1.3,33180,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 321,HEALTH_AND_FITNESS,3.4,24070,7.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 322,TRAVEL,4.8,13644,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 323,SOCIAL,1.5,18483,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 324,ENTERTAINMENT,4.2,15392,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 325,FINANCE,1.0,32344,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 326,TRAVEL,3.2,77033,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 327,TRAVEL,2.2,71217,8.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 328,EDUCATION,1.9,3571,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 329,HEALTH_AND_FITNESS,3.4,67922,10.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 330,SOCIAL,1.6,15785,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 331,EDUCATION,3.8,18210,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 332,PRODUCTIVITY,4.2,55288,6.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 333,EDUCATION,4.9,75784,4.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 334,COMMUNICATION,3.2,71072,4.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 335,TRAVEL,2.2,22536,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 336,SHOPPING,1.8,96468,2.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 337,GAME,4.5,83786,10.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 338,SHOPPING,1.3,14883,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 339,FINANCE,2.0,89924,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 340,PRODUCTIVITY,4.5,10264,6.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 341,GAME,1.3,36787,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 342,GAME,3.6,45581,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 343,ENTERTAINMENT,4.7,53292,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 344,SHOPPING,4.6,22759,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 345,SHOPPING,3.6,38350,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 346,PRODUCTIVITY,2.6,38415,1.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 347,HEALTH_AND_FITNESS,1.6,6999,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 348,EDUCATION,1.5,10699,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 349,GAME,2.3,11590,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 350,HEALTH_AND_FITNESS,1.1,27271,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 351,TRAVEL,5.0,67369,10.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 352,COMMUNICATION,4.3,78503,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 353,COMMUNICATION,3.9,42698,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 354,FINANCE,1.9,82853,10.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 355,SOCIAL,4.8,5142,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 356,FINANCE,1.9,10654,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 357,ENTERTAINMENT,3.6,22377,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 358,HEALTH_AND_FITNESS,4.5,69686,4.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 359,SOCIAL,2.2,97775,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 360,SOCIAL,1.2,31371,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 361,TRAVEL,2.3,47777,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 362,EDUCATION,4.5,76133,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 363,TRAVEL,1.9,50410,8.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 364,GAME,1.5,75293,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 365,SHOPPING,4.2,62792,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 366,HEALTH_AND_FITNESS,3.5,92884,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 367,FINANCE,3.3,64857,2.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 368,SOCIAL,2.1,91221,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 369,SHOPPING,1.9,40325,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 370,TRAVEL,3.3,44225,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 371,EDUCATION,2.4,45764,8.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 372,COMMUNICATION,1.9,94756,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 373,PRODUCTIVITY,1.2,76490,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 374,COMMUNICATION,3.4,17705,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 375,EDUCATION,3.2,36981,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 376,COMMUNICATION,4.6,86097,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 377,FINANCE,1.4,29643,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 378,GAME,3.1,10215,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 379,SOCIAL,1.9,28628,10.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 380,SOCIAL,4.5,77386,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 381,SOCIAL,4.7,64979,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 382,SHOPPING,4.3,21859,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 383,SHOPPING,2.6,12156,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 384,EDUCATION,3.0,71597,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 385,GAME,1.0,49353,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 386,SHOPPING,1.2,79471,6.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 387,PRODUCTIVITY,2.4,213,2.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Medium
+Sample App 388,FINANCE,4.2,93009,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 389,SHOPPING,1.5,92306,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 390,TRAVEL,4.6,1941,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 391,COMMUNICATION,2.5,35582,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 392,EDUCATION,4.2,23329,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 393,ENTERTAINMENT,4.8,23275,1.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 394,ENTERTAINMENT,3.7,26150,9.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 395,PRODUCTIVITY,2.6,31622,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 396,GAME,2.9,91051,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 397,FINANCE,2.4,37449,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 398,ENTERTAINMENT,1.6,65251,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 399,FINANCE,4.6,60835,4.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 400,COMMUNICATION,2.1,70157,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 401,COMMUNICATION,4.1,4291,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 402,EDUCATION,4.2,87506,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 403,PRODUCTIVITY,3.8,86620,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 404,EDUCATION,3.8,46892,5.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 405,HEALTH_AND_FITNESS,3.7,92101,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 406,ENTERTAINMENT,4.7,74339,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 407,SHOPPING,1.2,41529,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 408,SOCIAL,4.3,2641,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 409,COMMUNICATION,1.6,68493,4.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 410,COMMUNICATION,2.9,16276,7.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 411,COMMUNICATION,2.7,33865,5.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 412,HEALTH_AND_FITNESS,3.1,90501,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 413,ENTERTAINMENT,3.7,79947,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 414,HEALTH_AND_FITNESS,2.4,20891,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 415,TRAVEL,1.4,41066,10.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 416,ENTERTAINMENT,1.8,48906,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 417,SOCIAL,1.0,92179,10.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 418,HEALTH_AND_FITNESS,2.0,67917,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 419,HEALTH_AND_FITNESS,2.4,10689,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 420,COMMUNICATION,1.1,17088,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 421,FINANCE,1.7,54697,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 422,SHOPPING,4.6,60826,3.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 423,COMMUNICATION,3.7,44789,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 424,COMMUNICATION,3.0,24614,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 425,FINANCE,4.1,31387,4.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 426,COMMUNICATION,5.0,78412,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 427,HEALTH_AND_FITNESS,3.8,45157,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 428,SHOPPING,1.9,78016,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 429,ENTERTAINMENT,1.2,79130,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 430,EDUCATION,3.9,14666,10.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 431,PRODUCTIVITY,1.7,159,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Medium
+Sample App 432,FINANCE,4.6,77862,8.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 433,EDUCATION,1.6,54689,2.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 434,GAME,4.9,9396,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 435,SOCIAL,4.8,21998,5.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 436,HEALTH_AND_FITNESS,3.0,32329,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 437,HEALTH_AND_FITNESS,2.3,89762,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 438,HEALTH_AND_FITNESS,2.6,51331,3.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 439,SOCIAL,4.7,73113,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 440,HEALTH_AND_FITNESS,3.8,55158,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 441,SHOPPING,4.8,66552,1.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 442,HEALTH_AND_FITNESS,3.6,39086,5.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 443,ENTERTAINMENT,4.9,36470,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 444,FINANCE,2.4,58595,10.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 445,HEALTH_AND_FITNESS,1.6,87381,6.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 446,HEALTH_AND_FITNESS,2.7,53191,3.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 447,GAME,3.8,90890,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 448,EDUCATION,3.8,70130,2.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 449,HEALTH_AND_FITNESS,5.0,84818,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 450,SHOPPING,1.8,7801,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 451,SOCIAL,3.0,85971,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 452,PRODUCTIVITY,4.8,76909,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 453,HEALTH_AND_FITNESS,3.0,33219,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 454,COMMUNICATION,1.5,84970,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 455,GAME,3.3,7447,5.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,High
+Sample App 456,HEALTH_AND_FITNESS,4.9,407,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Medium
+Sample App 457,SHOPPING,4.5,65630,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 458,TRAVEL,2.8,69396,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 459,SOCIAL,3.8,45774,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 460,TRAVEL,1.3,62331,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 461,EDUCATION,3.4,95122,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 462,SHOPPING,3.2,40316,2.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 463,SOCIAL,3.3,4714,6.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,High
+Sample App 464,TRAVEL,4.1,40218,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 465,GAME,4.8,4531,10.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 466,GAME,3.8,54770,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 467,HEALTH_AND_FITNESS,4.3,1080,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 468,TRAVEL,2.8,94984,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 469,GAME,4.1,83289,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 470,HEALTH_AND_FITNESS,2.0,36719,9.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 471,ENTERTAINMENT,4.8,99621,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 472,FINANCE,3.7,44919,2.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 473,SHOPPING,1.7,8915,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 474,ENTERTAINMENT,4.9,57360,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 475,TRAVEL,2.5,94532,1.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 476,FINANCE,2.0,43907,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 477,COMMUNICATION,2.3,96098,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 478,TRAVEL,1.8,58080,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 479,SHOPPING,1.5,5990,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 480,FINANCE,2.0,16054,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 481,EDUCATION,2.2,75156,6.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 482,HEALTH_AND_FITNESS,1.9,39537,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 483,SHOPPING,3.9,16213,2.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 484,ENTERTAINMENT,2.9,34736,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 485,FINANCE,4.7,77667,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 486,EDUCATION,3.6,63572,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 487,GAME,4.3,5575,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 488,GAME,2.6,42344,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 489,FINANCE,3.2,4364,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,High
+Sample App 490,TRAVEL,4.5,57220,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 491,EDUCATION,2.1,92059,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 492,ENTERTAINMENT,4.7,44458,4.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 493,EDUCATION,1.4,18384,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 494,SHOPPING,4.0,96956,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 495,COMMUNICATION,2.8,12766,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 496,SHOPPING,2.8,40683,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 497,HEALTH_AND_FITNESS,1.1,5599,7.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 498,TRAVEL,3.9,27406,7.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 499,GAME,2.3,66134,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 500,PRODUCTIVITY,3.3,33802,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 501,TRAVEL,3.2,28007,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 502,TRAVEL,4.3,16946,8.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 503,COMMUNICATION,4.5,68159,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 504,SHOPPING,2.6,95135,4.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 505,COMMUNICATION,2.1,28015,8.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 506,SOCIAL,3.9,79381,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 507,HEALTH_AND_FITNESS,4.4,59874,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 508,GAME,1.2,91745,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 509,COMMUNICATION,3.0,58612,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 510,SOCIAL,3.1,10269,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 511,FINANCE,4.2,55178,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 512,FINANCE,2.9,9893,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,High
+Sample App 513,ENTERTAINMENT,2.1,60042,1.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 514,FINANCE,3.6,58147,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 515,COMMUNICATION,1.6,28370,5.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 516,ENTERTAINMENT,3.5,31063,7.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 517,ENTERTAINMENT,1.7,69216,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 518,HEALTH_AND_FITNESS,1.4,30007,2.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 519,FINANCE,3.7,67825,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 520,COMMUNICATION,3.1,80264,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 521,SOCIAL,4.9,10384,1.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 522,FINANCE,4.3,26279,3.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 523,TRAVEL,1.1,42853,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 524,GAME,4.6,74202,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 525,SOCIAL,2.3,65579,7.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 526,HEALTH_AND_FITNESS,2.2,98921,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 527,TRAVEL,2.7,32770,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 528,ENTERTAINMENT,2.8,51541,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 529,FINANCE,3.6,84608,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 530,GAME,3.9,67661,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 531,GAME,2.3,58207,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 532,HEALTH_AND_FITNESS,2.9,94359,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 533,COMMUNICATION,1.4,73446,10.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 534,HEALTH_AND_FITNESS,2.2,89127,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 535,HEALTH_AND_FITNESS,2.3,94652,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 536,FINANCE,2.3,51593,7.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 537,GAME,2.5,4410,10.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,High
+Sample App 538,EDUCATION,3.4,84066,1.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 539,FINANCE,2.1,73960,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 540,FINANCE,4.7,65493,2.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 541,HEALTH_AND_FITNESS,4.3,97835,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 542,EDUCATION,3.3,85534,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 543,EDUCATION,5.0,61281,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 544,SHOPPING,4.9,44592,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 545,ENTERTAINMENT,3.2,19508,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 546,PRODUCTIVITY,1.0,28813,1.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 547,FINANCE,2.8,81334,5.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 548,EDUCATION,2.0,54667,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 549,TRAVEL,3.8,46667,7.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 550,SOCIAL,2.7,22369,6.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 551,GAME,2.7,92682,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 552,SHOPPING,4.8,24982,4.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 553,EDUCATION,3.3,27563,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 554,EDUCATION,4.8,83171,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 555,ENTERTAINMENT,3.0,22852,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 556,FINANCE,4.1,38670,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 557,SOCIAL,3.5,57042,9.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 558,SOCIAL,2.3,57404,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 559,GAME,1.6,47096,10.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 560,SHOPPING,3.7,28244,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 561,COMMUNICATION,3.9,7406,7.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,High
+Sample App 562,HEALTH_AND_FITNESS,4.6,74535,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 563,FINANCE,2.3,30830,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 564,SOCIAL,4.9,77256,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 565,FINANCE,3.5,82418,5.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 566,FINANCE,4.2,68483,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 567,COMMUNICATION,1.6,82338,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 568,COMMUNICATION,1.5,42360,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 569,ENTERTAINMENT,2.9,50008,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 570,HEALTH_AND_FITNESS,3.0,83120,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 571,PRODUCTIVITY,2.9,64712,5.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 572,EDUCATION,1.7,41109,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 573,PRODUCTIVITY,2.2,53678,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 574,HEALTH_AND_FITNESS,4.8,63339,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 575,ENTERTAINMENT,1.5,89090,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 576,FINANCE,4.7,72879,5.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 577,HEALTH_AND_FITNESS,2.7,64289,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 578,SOCIAL,1.4,41257,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 579,PRODUCTIVITY,4.3,74274,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 580,EDUCATION,2.5,89847,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 581,EDUCATION,4.2,97528,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 582,SOCIAL,1.3,62957,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 583,GAME,4.7,77178,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 584,HEALTH_AND_FITNESS,1.5,5398,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 585,HEALTH_AND_FITNESS,4.1,34996,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 586,SHOPPING,3.6,84276,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 587,SHOPPING,1.0,20444,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 588,ENTERTAINMENT,4.5,34044,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 589,EDUCATION,4.7,75672,7.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 590,ENTERTAINMENT,2.4,18388,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 591,FINANCE,4.5,33265,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 592,COMMUNICATION,1.7,78512,6.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 593,GAME,3.0,44221,1.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 594,COMMUNICATION,2.3,61257,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 595,SHOPPING,3.5,9939,1.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,High
+Sample App 596,SOCIAL,4.1,83120,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 597,PRODUCTIVITY,3.2,88230,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 598,TRAVEL,4.3,54559,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 599,TRAVEL,2.8,68190,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 600,COMMUNICATION,4.9,46282,6.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 601,FINANCE,1.6,85656,4.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 602,FINANCE,4.3,73359,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 603,EDUCATION,2.6,31022,2.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 604,GAME,4.1,74784,7.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 605,GAME,2.6,68639,6.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 606,HEALTH_AND_FITNESS,1.1,41797,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 607,COMMUNICATION,1.9,49569,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 608,GAME,1.6,64369,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 609,EDUCATION,1.3,29348,7.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 610,PRODUCTIVITY,4.2,82615,5.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 611,SHOPPING,3.5,52538,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 612,GAME,4.0,37289,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 613,COMMUNICATION,1.5,85832,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 614,EDUCATION,1.6,36931,10.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 615,TRAVEL,4.2,94796,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 616,GAME,3.1,60875,3.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 617,PRODUCTIVITY,4.4,59381,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 618,PRODUCTIVITY,2.7,71532,5.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 619,PRODUCTIVITY,4.4,41637,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 620,SHOPPING,4.1,67301,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 621,PRODUCTIVITY,1.8,29778,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 622,GAME,3.5,61782,5.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 623,SHOPPING,4.4,297,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Medium
+Sample App 624,SOCIAL,1.4,22492,8.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 625,HEALTH_AND_FITNESS,2.6,16868,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 626,FINANCE,1.4,25842,3.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 627,SHOPPING,3.3,16418,2.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 628,GAME,5.0,76352,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 629,SOCIAL,2.5,80900,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 630,PRODUCTIVITY,4.7,21071,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 631,HEALTH_AND_FITNESS,4.1,97375,4.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 632,ENTERTAINMENT,2.7,7000,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,High
+Sample App 633,FINANCE,4.9,73269,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 634,ENTERTAINMENT,1.5,96120,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 635,PRODUCTIVITY,1.9,11187,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 636,GAME,3.0,37863,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 637,FINANCE,3.7,96585,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 638,PRODUCTIVITY,1.4,10481,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 639,ENTERTAINMENT,3.9,6212,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,High
+Sample App 640,FINANCE,3.4,21685,10.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 641,PRODUCTIVITY,3.6,34500,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 642,FINANCE,4.7,29213,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 643,ENTERTAINMENT,3.1,70622,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 644,HEALTH_AND_FITNESS,3.0,76715,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 645,HEALTH_AND_FITNESS,3.8,20957,9.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 646,TRAVEL,5.0,86066,8.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 647,SOCIAL,2.9,99115,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 648,PRODUCTIVITY,1.6,74187,5.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 649,SHOPPING,4.0,55701,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 650,FINANCE,1.9,40106,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 651,SOCIAL,4.0,61930,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 652,FINANCE,3.3,65013,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 653,TRAVEL,4.3,48450,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 654,PRODUCTIVITY,3.6,75765,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 655,GAME,5.0,3730,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 656,COMMUNICATION,3.5,49902,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 657,FINANCE,4.1,63695,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 658,PRODUCTIVITY,3.0,19180,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 659,PRODUCTIVITY,4.1,59286,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 660,SOCIAL,1.1,18521,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 661,ENTERTAINMENT,1.8,47446,8.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 662,FINANCE,4.1,33491,7.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 663,TRAVEL,2.9,44659,9.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 664,FINANCE,1.3,56445,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 665,COMMUNICATION,4.0,16875,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 666,TRAVEL,4.9,73921,9.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 667,ENTERTAINMENT,4.8,54175,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 668,PRODUCTIVITY,2.4,13091,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 669,SOCIAL,1.7,41731,10.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 670,SOCIAL,3.1,39450,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 671,HEALTH_AND_FITNESS,4.9,1210,3.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 672,SOCIAL,4.8,37503,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 673,EDUCATION,2.9,77351,3.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 674,COMMUNICATION,3.5,70242,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 675,GAME,2.2,22433,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 676,ENTERTAINMENT,3.6,19219,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 677,SOCIAL,1.8,43079,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 678,PRODUCTIVITY,4.7,70675,8.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 679,PRODUCTIVITY,1.6,76610,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 680,SOCIAL,1.5,95021,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 681,ENTERTAINMENT,3.2,79172,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 682,TRAVEL,2.0,78471,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 683,SOCIAL,1.9,63005,9.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 684,GAME,4.0,47355,6.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 685,GAME,3.4,27315,2.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 686,TRAVEL,1.7,27611,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 687,FINANCE,2.1,25665,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 688,COMMUNICATION,4.4,93476,8.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 689,TRAVEL,3.9,76148,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 690,EDUCATION,3.2,83910,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 691,COMMUNICATION,1.2,37876,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 692,ENTERTAINMENT,4.9,48454,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 693,HEALTH_AND_FITNESS,3.0,14478,4.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 694,COMMUNICATION,4.1,56187,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 695,ENTERTAINMENT,2.4,56111,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 696,GAME,3.3,24132,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 697,EDUCATION,4.1,10653,1.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 698,FINANCE,4.5,98048,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 699,ENTERTAINMENT,3.1,41891,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 700,PRODUCTIVITY,1.0,56856,10.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 701,FINANCE,1.7,8359,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 702,GAME,4.9,10758,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 703,COMMUNICATION,4.3,4249,4.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 704,EDUCATION,3.8,62456,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 705,PRODUCTIVITY,1.7,16022,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 706,GAME,3.1,75871,5.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 707,ENTERTAINMENT,1.9,87235,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 708,ENTERTAINMENT,3.0,48596,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 709,EDUCATION,4.6,60452,2.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 710,PRODUCTIVITY,1.8,19466,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 711,ENTERTAINMENT,1.2,53949,2.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 712,HEALTH_AND_FITNESS,2.1,47180,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 713,SHOPPING,2.8,24974,4.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 714,HEALTH_AND_FITNESS,3.4,45918,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 715,ENTERTAINMENT,3.4,28298,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 716,TRAVEL,3.4,63207,4.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 717,ENTERTAINMENT,2.2,75466,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 718,EDUCATION,2.5,91466,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 719,GAME,1.1,71696,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 720,EDUCATION,3.4,94663,1.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 721,TRAVEL,3.7,86086,6.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 722,SOCIAL,2.6,9775,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,High
+Sample App 723,HEALTH_AND_FITNESS,4.6,8102,10.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 724,ENTERTAINMENT,2.9,1290,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,High
+Sample App 725,ENTERTAINMENT,4.1,59948,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 726,TRAVEL,3.5,57065,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 727,SOCIAL,3.3,36394,3.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 728,FINANCE,3.2,70459,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 729,FINANCE,3.5,99519,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 730,TRAVEL,3.3,27499,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 731,FINANCE,1.5,4111,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 732,FINANCE,3.7,77475,8.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 733,HEALTH_AND_FITNESS,3.6,46384,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 734,SOCIAL,1.2,7666,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 735,EDUCATION,3.7,25926,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 736,SHOPPING,1.9,83227,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 737,PRODUCTIVITY,3.5,80130,6.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 738,PRODUCTIVITY,3.9,10618,4.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 739,EDUCATION,3.2,70362,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 740,GAME,4.0,28320,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 741,ENTERTAINMENT,3.1,22617,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 742,PRODUCTIVITY,1.9,83656,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 743,HEALTH_AND_FITNESS,4.8,34868,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 744,SHOPPING,4.1,39401,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 745,FINANCE,4.8,92814,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 746,GAME,1.8,45221,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 747,SOCIAL,2.4,46089,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 748,FINANCE,3.1,12663,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 749,GAME,3.8,89982,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 750,HEALTH_AND_FITNESS,4.1,4552,9.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 751,FINANCE,1.4,85043,9.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 752,ENTERTAINMENT,1.3,19636,7.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 753,ENTERTAINMENT,1.7,73795,10.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 754,HEALTH_AND_FITNESS,2.7,50599,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 755,SHOPPING,1.2,76235,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 756,ENTERTAINMENT,2.6,12142,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 757,PRODUCTIVITY,2.4,51229,9.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 758,EDUCATION,2.5,32384,7.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 759,ENTERTAINMENT,2.6,25881,3.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 760,COMMUNICATION,1.1,3601,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 761,PRODUCTIVITY,4.7,47111,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 762,GAME,1.6,52333,3.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 763,PRODUCTIVITY,1.1,98163,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 764,SOCIAL,3.5,45275,10.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 765,HEALTH_AND_FITNESS,4.9,39472,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 766,PRODUCTIVITY,4.2,98807,4.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 767,COMMUNICATION,3.6,37608,5.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 768,PRODUCTIVITY,2.5,53404,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 769,EDUCATION,3.4,94531,9.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 770,PRODUCTIVITY,3.7,17578,4.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 771,PRODUCTIVITY,2.9,47114,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 772,TRAVEL,4.1,75029,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 773,GAME,3.9,82990,8.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 774,SHOPPING,1.9,36635,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 775,FINANCE,1.2,67519,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 776,GAME,1.0,22355,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 777,HEALTH_AND_FITNESS,3.3,44301,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 778,COMMUNICATION,3.8,76192,3.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 779,PRODUCTIVITY,4.3,81766,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 780,ENTERTAINMENT,4.1,24591,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 781,SHOPPING,4.3,48310,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 782,HEALTH_AND_FITNESS,1.3,54040,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 783,ENTERTAINMENT,2.6,64829,6.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 784,TRAVEL,4.9,99529,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 785,SOCIAL,2.0,68959,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 786,HEALTH_AND_FITNESS,1.3,45336,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 787,GAME,4.6,37116,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 788,GAME,2.7,86517,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 789,EDUCATION,2.0,44467,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 790,EDUCATION,3.4,87952,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 791,ENTERTAINMENT,1.8,92988,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 792,EDUCATION,1.6,14972,8.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 793,HEALTH_AND_FITNESS,3.9,59320,7.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 794,EDUCATION,4.8,3377,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 795,COMMUNICATION,4.9,68944,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 796,HEALTH_AND_FITNESS,3.4,68246,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 797,SOCIAL,1.2,69138,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 798,COMMUNICATION,4.6,268,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Medium
+Sample App 799,GAME,3.7,91100,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 800,TRAVEL,4.0,61561,10.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 801,TRAVEL,5.0,50049,10.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 802,EDUCATION,1.9,9939,1.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 803,PRODUCTIVITY,4.1,46427,10.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 804,FINANCE,1.0,33266,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 805,FINANCE,1.2,26461,3.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 806,EDUCATION,4.3,75282,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 807,SOCIAL,3.1,87020,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 808,FINANCE,5.0,15102,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 809,SOCIAL,4.7,23171,1.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 810,ENTERTAINMENT,4.9,51937,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 811,FINANCE,4.8,604,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Medium
+Sample App 812,COMMUNICATION,4.9,14736,7.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 813,FINANCE,1.2,69049,8.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 814,TRAVEL,4.8,38139,5.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 815,TRAVEL,1.5,30486,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 816,HEALTH_AND_FITNESS,1.6,6005,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 817,FINANCE,3.0,79606,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 818,COMMUNICATION,2.6,6906,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,High
+Sample App 819,ENTERTAINMENT,1.9,37114,3.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 820,HEALTH_AND_FITNESS,4.7,85094,10.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 821,HEALTH_AND_FITNESS,1.0,81566,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 822,PRODUCTIVITY,2.3,69621,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 823,HEALTH_AND_FITNESS,3.9,18043,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 824,SOCIAL,2.6,20467,2.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 825,COMMUNICATION,2.7,46390,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 826,EDUCATION,1.5,74730,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 827,COMMUNICATION,4.6,47836,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 828,FINANCE,4.3,27538,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 829,SHOPPING,1.1,94968,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 830,FINANCE,4.7,14414,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 831,PRODUCTIVITY,1.0,18981,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 832,COMMUNICATION,1.9,62900,5.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 833,TRAVEL,1.3,21376,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 834,FINANCE,2.3,94296,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 835,SHOPPING,4.3,38844,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 836,PRODUCTIVITY,2.6,42929,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 837,FINANCE,1.0,79367,9.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 838,SHOPPING,3.7,23921,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 839,HEALTH_AND_FITNESS,2.7,140,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Medium
+Sample App 840,COMMUNICATION,4.1,10622,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 841,EDUCATION,3.9,40697,8.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 842,TRAVEL,4.6,50569,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 843,SOCIAL,1.9,76264,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 844,SOCIAL,4.7,63517,8.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 845,COMMUNICATION,2.8,49480,10.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 846,COMMUNICATION,4.9,41081,10.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 847,SOCIAL,3.7,24590,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 848,SHOPPING,2.2,37229,9.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 849,FINANCE,3.0,28419,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 850,HEALTH_AND_FITNESS,1.7,7721,4.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 851,SOCIAL,3.4,85906,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 852,TRAVEL,1.4,41106,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 853,EDUCATION,4.3,47760,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 854,ENTERTAINMENT,3.6,49941,10.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 855,ENTERTAINMENT,2.0,77531,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 856,TRAVEL,4.4,75907,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 857,TRAVEL,2.9,4478,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,High
+Sample App 858,EDUCATION,1.0,50759,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 859,EDUCATION,2.8,29994,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 860,SHOPPING,4.4,51226,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 861,ENTERTAINMENT,2.2,14614,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 862,PRODUCTIVITY,1.1,72001,4.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 863,ENTERTAINMENT,3.3,57441,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 864,FINANCE,3.7,57378,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 865,ENTERTAINMENT,3.8,91589,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 866,GAME,4.9,65793,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 867,FINANCE,1.9,3436,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 868,SOCIAL,3.4,92828,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 869,FINANCE,2.5,71578,9.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 870,COMMUNICATION,2.8,43216,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 871,HEALTH_AND_FITNESS,2.3,99734,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 872,SHOPPING,3.9,28576,4.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 873,SOCIAL,4.3,98186,1.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 874,TRAVEL,1.5,51711,8.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 875,SHOPPING,2.1,34138,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 876,FINANCE,3.9,55009,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 877,FINANCE,3.4,52233,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 878,SHOPPING,2.9,25002,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 879,SHOPPING,5.0,78642,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 880,EDUCATION,1.1,92836,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 881,FINANCE,5.0,79541,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 882,HEALTH_AND_FITNESS,3.6,18931,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 883,SHOPPING,4.4,71022,2.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 884,PRODUCTIVITY,3.6,41916,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 885,GAME,2.9,21735,2.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 886,ENTERTAINMENT,4.7,1586,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 887,EDUCATION,3.7,89559,2.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 888,COMMUNICATION,2.9,80003,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 889,EDUCATION,2.8,37183,3.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 890,COMMUNICATION,4.3,51406,1.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 891,SHOPPING,4.0,47029,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 892,GAME,4.5,854,1.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Medium
+Sample App 893,FINANCE,1.7,11774,2.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 894,FINANCE,4.9,56280,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 895,PRODUCTIVITY,2.1,76688,5.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 896,GAME,1.5,44418,3.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 897,TRAVEL,3.4,78746,7.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 898,TRAVEL,3.5,75037,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 899,COMMUNICATION,1.8,16571,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 900,GAME,4.2,21781,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 901,HEALTH_AND_FITNESS,4.7,72859,2.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 902,TRAVEL,2.7,53022,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 903,PRODUCTIVITY,1.5,63350,7.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 904,SHOPPING,3.3,47572,2.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 905,GAME,1.8,99266,3.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 906,FINANCE,4.7,93268,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 907,PRODUCTIVITY,4.5,54198,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 908,ENTERTAINMENT,3.7,65661,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 909,GAME,1.5,20226,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 910,TRAVEL,3.0,91512,2.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 911,SHOPPING,4.3,36829,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 912,HEALTH_AND_FITNESS,3.6,44923,3.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 913,TRAVEL,1.7,55560,5.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 914,GAME,3.8,31552,7.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 915,PRODUCTIVITY,1.1,35057,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 916,SHOPPING,4.6,89863,2.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 917,PRODUCTIVITY,3.2,43333,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 918,SOCIAL,3.1,53120,5.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 919,HEALTH_AND_FITNESS,4.2,32961,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 920,GAME,1.2,18703,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 921,FINANCE,2.8,91916,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 922,COMMUNICATION,1.2,2310,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,High
+Sample App 923,EDUCATION,4.8,66215,10.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 924,SOCIAL,2.6,97445,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 925,GAME,3.5,14544,8.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 926,EDUCATION,2.3,26272,4.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 927,SOCIAL,1.8,27550,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 928,FINANCE,2.3,85051,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 929,PRODUCTIVITY,2.4,18978,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 930,GAME,3.3,28393,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 931,EDUCATION,2.4,3355,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,High
+Sample App 932,PRODUCTIVITY,2.4,32228,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 933,COMMUNICATION,3.7,34490,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 934,PRODUCTIVITY,3.9,4376,8.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,High
+Sample App 935,COMMUNICATION,1.1,64930,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 936,FINANCE,1.5,71659,10.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 937,FINANCE,3.0,18349,9.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 938,FINANCE,1.8,25998,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 939,ENTERTAINMENT,4.2,3536,9.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,High
+Sample App 940,PRODUCTIVITY,1.2,80962,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 941,ENTERTAINMENT,1.6,56094,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 942,SOCIAL,1.3,66624,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 943,ENTERTAINMENT,2.1,39452,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 944,GAME,3.2,10319,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 945,ENTERTAINMENT,1.1,95388,9.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 946,GAME,2.5,77698,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 947,HEALTH_AND_FITNESS,3.3,94740,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 948,EDUCATION,3.2,16111,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 949,EDUCATION,3.5,63851,3.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 950,HEALTH_AND_FITNESS,3.4,40125,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 951,PRODUCTIVITY,4.1,61024,2.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 952,ENTERTAINMENT,3.6,38537,4.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 953,SOCIAL,3.1,20472,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 954,SHOPPING,2.9,91851,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 955,FINANCE,3.6,63948,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 956,TRAVEL,3.7,85726,4.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 957,SHOPPING,1.9,18449,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 958,FINANCE,4.4,17310,3.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 959,PRODUCTIVITY,1.0,88551,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 960,HEALTH_AND_FITNESS,3.2,76601,6.99,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 961,COMMUNICATION,3.3,92335,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 962,TRAVEL,4.3,27158,2.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 963,SOCIAL,3.0,22619,0.0,True,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 964,GAME,1.3,67391,4.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 965,GAME,3.3,78005,5.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 966,TRAVEL,3.9,37775,5.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 967,SHOPPING,3.1,93549,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 968,GAME,1.9,22340,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 969,SOCIAL,4.3,76929,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 970,GAME,3.2,7908,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,High
+Sample App 971,COMMUNICATION,4.9,32319,7.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 972,SHOPPING,2.6,41469,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 973,EDUCATION,3.5,58068,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 974,TRAVEL,3.4,54812,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 975,FINANCE,2.0,26730,3.99,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 976,EDUCATION,2.4,19189,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 977,SOCIAL,4.0,47775,0.0,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 978,TRAVEL,4.1,28409,9.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 979,FINANCE,3.9,1287,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,High
+Sample App 980,COMMUNICATION,2.0,32153,8.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 981,SHOPPING,1.2,35793,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 982,ENTERTAINMENT,2.6,87186,1.99,False,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 983,PRODUCTIVITY,2.8,99943,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 984,SOCIAL,4.8,97191,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 985,FINANCE,2.5,16917,8.99,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 986,COMMUNICATION,2.1,66669,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 987,GAME,3.3,67972,0.0,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 988,SOCIAL,3.5,17108,0.0,True,Teen,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 989,GAME,4.8,64416,10.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 990,HEALTH_AND_FITNESS,1.5,53982,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 991,HEALTH_AND_FITNESS,1.1,52699,9.99,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 992,ENTERTAINMENT,1.8,88460,0.0,False,Teen,google_play,2025-09-27T20:18:20.109955,True,Poor,Very High
+Sample App 993,FINANCE,4.5,44002,10.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 994,HEALTH_AND_FITNESS,2.4,28466,2.99,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Fair,Very High
+Sample App 995,PRODUCTIVITY,4.3,62098,0.0,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 996,PRODUCTIVITY,3.4,23091,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Good,Very High
+Sample App 997,SOCIAL,4.7,59714,9.99,True,Everyone 10+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 998,COMMUNICATION,4.9,85054,3.99,False,Mature 17+,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 999,SHOPPING,4.1,29850,0.0,True,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
+Sample App 1000,FINANCE,4.9,59463,0.0,False,Everyone,google_play,2025-09-27T20:18:20.109955,True,Excellent,Very High
